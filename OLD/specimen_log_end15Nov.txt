@@ -1,0 +1,2382 @@
+SA04308923,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04309457,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04309484,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04310189,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04310466,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04310512,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04312676,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04313214,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04313471,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04313677,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04314043,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04316683,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04317308,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04318850,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319076,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319087,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319113,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319120,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319515,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319518,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319548,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319562,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04320980,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04321283,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04322180,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04323281,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04323667,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324705,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324713,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324789,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324801,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04325269,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04325290,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04325299,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04325825,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326162,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326168,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326171,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326204,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SG00474370,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187760,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187768,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187773,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187779,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187792,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187873,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187884,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187928,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187942,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188045,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188135,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188136,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188141,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188146,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188155,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188163,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188209,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188224,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188264,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188266,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XA00170117,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XA00170129,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091554,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091588,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091652,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091798,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091801,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091917,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091975,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091983,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091990,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092482,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092483,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092486,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092507,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092524,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092541,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092588,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092612,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092648,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092690,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092700,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092708,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092785,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092802,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092803,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092808,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092851,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092869,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093393,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093499,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093557,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093668,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093684,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093690,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093698,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093708,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093710,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093713,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093714,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093715,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093722,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093727,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093758,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093765,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093793,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093806,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093820,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094352,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094355,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094367,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094437,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094452,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094554,  Storage Information
+ Storage Information 
+
+   Container : SAVMS338   SA Sample Aliquots Box 338      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+XB01094595,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094596,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094598,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094613,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094657,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094671,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094678,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094689,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094696,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094697,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094717,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094726,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094737,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094758,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094782,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095197,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095288,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095358,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095366,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095375,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095379,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095389,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095398,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095420,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095459,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095461,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095481,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095488,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095494,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095499,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095500,  Storage Information
+ Storage Information 
+
+   Container : SAVMS340   SA Sample Aliquots Box 340      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 4   <view1> 
+
+ ,
+XB01095501,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+XB01095506,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095510,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095513,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095523,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view1> 
+
+ ,
+XB01095536,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095537,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095539,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095544,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095545,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095551,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095556,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00446283,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04308923,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04309457,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04309484,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04310189,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04310466,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04310512,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04312676,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04313214,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04313471,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04313677,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04314043,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04316683,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04317308,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04318850,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319076,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319087,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319113,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319120,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319515,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319518,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319548,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04319562,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04320980,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04321283,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04322180,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04323281,  Storage Information
+ Storage Information 
+
+   Container : SAVMS360   SA Sample Aliquots Box 360      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 1   <view1> 
+
+ ,
+SA04323667,  Storage Information
+ Storage Information 
+
+   Container : SAVMS360   SA Sample Aliquots Box 360      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+SA04324705,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324713,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324789,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04324801,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04325269,  Storage Information
+ Storage Information 
+
+   Container : SAVMS347   SA Sample Aliquots Box 347      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+SA04325290,  Storage Information
+ Storage Information 
+
+   Container : SAVMS345   SA Sample Aliquots Box 345      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+SA04325299,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+SA04325825,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326162,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326168,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326171,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04326204,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SG00474370,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187760,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+UF02187768,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187773,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187779,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187792,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187873,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187884,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187928,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02187942,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188045,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188135,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188136,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188141,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188146,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188155,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188163,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188209,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188224,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+UF02188264,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+UF02188266,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XA00170117,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XA00170129,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091554,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091588,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091652,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091798,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091801,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091917,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091975,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091983,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01091990,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092482,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092483,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092486,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092507,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092524,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092541,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092588,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092612,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092648,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092690,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092700,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092708,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092785,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092802,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092803,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092808,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092851,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01092869,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093393,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093499,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093557,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093668,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093684,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093690,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093698,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093708,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093710,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093713,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093714,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093715,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093722,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093727,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093758,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093765,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093793,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093806,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01093820,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094352,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+XB01094355,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+XB01094367,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094437,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 7   <view1> 
+
+ ,
+XB01094452,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+XB01094554,  Storage Information
+ Storage Information 
+
+   Container : SAVMS338   SA Sample Aliquots Box 338      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+XB01094595,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094596,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+XB01094598,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094613,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 1   <view1> 
+
+ ,
+XB01094657,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094671,  Storage Information
+ Storage Information 
+
+   Container : SAVMS340   SA Sample Aliquots Box 340      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+XB01094678,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094689,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+XB01094696,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01094697,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 8   <view1> 
+
+ ,
+XB01094717,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+XB01094726,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 4   <view1> 
+
+ ,
+XB01094737,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+XB01094758,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 6   <view1> 
+
+ ,
+XB01094782,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 3   <view1> 
+
+ ,
+XB01095197,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095288,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 7   <view1> 
+
+ ,
+XB01095358,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 3   <view1> 
+
+ ,
+XB01095366,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095375,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095379,  Storage Information
+ Storage Information 
+
+   Container : SAVMS345   SA Sample Aliquots Box 345      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+XB01095389,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095398,  Storage Information
+ Storage Information 
+
+   Container : SAVMS345   SA Sample Aliquots Box 345      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+XB01095420,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+XB01095459,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095461,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095481,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095488,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+XB01095494,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 4   <view1> 
+
+ ,
+XB01095499,  Storage Information
+ Storage Information 
+
+   Container : SAVMS345   SA Sample Aliquots Box 345      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+XB01095500,  Storage Information
+ Storage Information 
+
+   Container : SAVMS340   SA Sample Aliquots Box 340      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 4   <view1> 
+
+ ,
+XB01095501,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+XB01095506,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095510,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+XB01095513,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 7   <view1> 
+
+ ,
+XB01095523,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view1> 
+
+ ,
+XB01095536,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 2   <view1> 
+
+ ,
+XB01095537,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095539,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095544,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095545,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095551,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XB01095556,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+XC00446283,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00446438,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00446744,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00446771,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00447447,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00447705,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+XC00447873,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XC00448003,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159527,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159540,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159552,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159564,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159570,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159572,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159574,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159630,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159635,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159641,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159651,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159671,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159675,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159710,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159714,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159743,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159830,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159831,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159842,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159846,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159847,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159853,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159938,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159945,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159946,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159958,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159961,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159977,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00159983,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160080,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160090,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160101,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160102,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160122,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160135,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160177,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160179,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160201,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 4   <view1> 
+
+ ,
+XH00160207,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160208,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160285,  Storage Information
+ Storage Information 
+
+   Container : SAVMS338   SA Sample Aliquots Box 338      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+XH00160307,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160319,  Storage Information
+ Storage Information 
+
+   Container : SAVMS338   SA Sample Aliquots Box 338      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+XH00160326,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160327,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+XH00160338,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160355,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160359,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160363,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160449,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160458,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 8   <view1> 
+
+ ,
+XH00160476,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+XH00160485,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 5   <view1> 
+
+ ,
+XH00160488,  Storage Information
+ Storage Information 
+
+   Container : SAVMS360   SA Sample Aliquots Box 360      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+XH00160581,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 2   <view1> 
+
+ ,
+XH00160582,  Storage Information
+ Storage Information 
+
+   Container : SAVMS345   SA Sample Aliquots Box 345      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+XH00160584,  Storage Information
+ Storage Information 
+
+   Container : SAVMS338   SA Sample Aliquots Box 338      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 8   <view1> 
+
+ ,
+XH00160586,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+XH00160592,  Storage Information
+ Storage Information 
+
+   Container : SAVMS338   SA Sample Aliquots Box 338      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+XH00160594,  Storage Information
+ Storage Information 
+
+   Container : SAVMS347   SA Sample Aliquots Box 347      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+XH00160597,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XH00160602,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 6   <view1> 
+
+ ,
+XH00160615,  Storage Information
+ Storage Information 
+
+   Container : SAVMS339   SA Sample Aliquots Box 339      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+XH00160620,  Storage Information
+ Storage Information 
+
+   Container : SAVMS346   SA Sample Aliquots Box 346      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 4   <view1> 
+
+ ,
+XH00160633,  Storage Information
+ Storage Information 
+
+   Container : SAVMS345   SA Sample Aliquots Box 345      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+XI00199202,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XI00199576,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+XI00199578,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XI00199581,  Storage Information
+ Storage Information 
+
+   Container : SAVMS341   SA Sample Aliquots Box 341      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+XI00199588,  Storage Information
+ Storage Information 
+
+   Container : SAVMS347   SA Sample Aliquots Box 347      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+XI00199607,  Storage Information
+ Storage Information 
+
+   Container : SAVMS344   SA Sample Aliquots Box 344      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 4   <view1> 
+
+ ,
+XI00199626,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+XJ00295552,  Storage Information
+ Storage Information 
+
+   Container : SAVMS340   SA Sample Aliquots Box 340      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 1   <view1> 
+
+ ,
+XJ00295638,  Storage Information
+ Storage Information 
+
+   Container : SAVMS342   SA Sample Aliquots Box 342      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 5   <view1> 
+
+ ,

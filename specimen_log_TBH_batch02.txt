@@ -1,0 +1,1451 @@
+ST04412973,  Storage Information
+ Storage Information 
+
+   Container : STC0006   ST cITm                                                                                        Col : 4   Row : 13   <view1> 
+   Container : STHR016   Haematology Routine Rack 16      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 3    <view3> 
+
+ ,
+ST04413149,  Storage Information
+ Storage Information 
+
+   Container : STC0007   ST cITm                                                                                        Col : 2   Row : 19   <view1> 
+   Container : STHR016   Haematology Routine Rack 16      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 6    <view3> 
+
+ ,
+ST04413152,  Storage Information
+ Storage Information 
+
+   Container : STCR023   Chemistry Routine Rack 23        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 10   <view1> 
+   Container : STHR016   Haematology Routine Rack 16      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 6    <view3> 
+
+ ,
+ST04413220,  Storage Information
+ Storage Information 
+
+   Container : STCR025   Chemistry Routine Rack 25        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9   Row : 4    <view1> 
+   Container : STHR016   Haematology Routine Rack 16      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 10   <view3> 
+
+ ,
+ST04413698,  Storage Information
+ Storage Information 
+
+   Container : STC0011   ST cITm       Col : 3   Row : 20   <view1> 
+
+ ,
+ST04413818,  Storage Information
+ Storage Information 
+
+   Container : STCR026   Chemistry Routine Rack 26        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 8   <view1> 
+   Container : STHR017   Haematology Routine Rack 17      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 7   <view3> 
+
+ ,
+ST04413819,  Storage Information
+ Storage Information 
+
+   Container : STCR026   Chemistry Routine Rack 26        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9   Row : 8   <view1> 
+   Container : STHR017   Haematology Routine Rack 17      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 7   <view3> 
+                                                                                                                        Col : 6   Row : 9   <view4> 
+
+ ,
+ST04413904,  Storage Information
+ Storage Information 
+
+   Container : STCR027   Chemistry Routine Rack 27        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 9   <view1> 
+   Container : STHR017   Haematology Routine Rack 17      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 9   <view3> 
+
+ ,
+ST04413954,  Storage Information
+ Storage Information 
+
+   Container : STCR026   Chemistry Routine Rack 26        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 9   <view1> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2    Row : 3   <view3> 
+
+ ,
+ST04414055,  Storage Information
+ Storage Information 
+
+   Container : STCR026   Chemistry Routine Rack 26        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 9   <view1> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 3   <view3> 
+
+ ,
+ST04414063,  Storage Information
+ Storage Information 
+
+   Container : SAVCLIA5   SA Chem Tests Liaison 5        Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2    <view1> 
+   Container : STC0013    ST cITm                                                                                          Col : 4   Row : 12   <view3> 
+                                                                                                                           Col : 5   Row : 14   <view4> 
+   Container : STCR027    Chemistry Routine Rack 27      Storage Place : STCF1   ST Chemistry Fridge                       Col : 7   Row : 10   <view6> 
+
+ ,
+ST04414091,  Storage Information
+ Storage Information 
+
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 3   <view1> 
+
+ ,
+ST04414116,  Storage Information
+ Storage Information 
+
+   Container : STCR027   Chemistry Routine Rack 27        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 9   <view1> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 5   <view3> 
+
+ ,
+ST04414125,  Storage Information
+ Storage Information 
+
+   Container : SAVCLIA5   SA Chem Tests Liaison 5        Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 4   <view1> 
+   Container : STC0013    ST cITm                                                                                          Col : 5   Row : 3   <view3> 
+   Container : STCR031    Chemistry Routine Rack 31      Storage Place : STCF1   ST Chemistry Fridge                       Col : 8   Row : 4   <view5> 
+
+ ,
+ST04414197,  Storage Information
+ Storage Information 
+
+   Container : STCR034   Chemistry Routine Rack 34        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 1   <view1> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 4   <view3> 
+                                                                                                                        Col : 3   Row : 7   <view4> 
+
+ ,
+ST04414204,  Storage Information
+ Storage Information 
+
+   Container : STCR027   Chemistry Routine Rack 27        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 10   <view1> 
+   Container : STCR031   Chemistry Routine Rack 31        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 9    <view3> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 9    <view5> 
+
+ ,
+ST04414210,  Storage Information
+ Storage Information 
+
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 8   <view1> 
+
+ ,
+ST04414223,  Storage Information
+ Storage Information 
+
+   Container : STCR027   Chemistry Routine Rack 27        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 9    <view1> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 5    <view3> 
+                                                                                                                        Col : 8   Row : 10   <view4> 
+
+ ,
+ST04414237,  Storage Information
+ Storage Information 
+
+   Container : STC0014   ST cITm                                                                                        Col : 4   Row : 4    <view1> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 10   <view3> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 2    <view5> 
+
+ ,
+ST04414242,  Storage Information
+ Storage Information 
+
+   Container : STCR031   Chemistry Routine Rack 31        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 7   <view1> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 1   <view3> 
+
+ ,
+ST04414250,  Storage Information
+ Storage Information 
+
+   Container : STCA001   ST A-Send Rack 1                 Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 1   <view1> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 1   <view3> 
+
+ ,
+ST04414310,  Storage Information
+ Storage Information 
+
+   Container : STCR031   Chemistry Routine Rack 31        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 2   <view1> 
+   Container : STCR035   Chemistry Routine Rack 35        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 1   <view3> 
+   Container : STHR018   Haematology Routine Rack 18      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 7   <view5> 
+
+ ,
+ST04414344,  Storage Information
+ Storage Information 
+
+   Container : STCR027     Chemistry Routine Rack 27        Storage Place : STCF1   ST Chemistry Fridge      Col : 9    Row : 10   <view1> 
+                                                                                                             Col : 10   Row : 10   <view2> 
+   Container : STCR031     Chemistry Routine Rack 31        Storage Place : STCF1   ST Chemistry Fridge      Col : 4    Row : 1    <view4> 
+                                                                                                             Col : 2    Row : 4    <view5> 
+   Container : STCR034     Chemistry Routine Rack 34        Storage Place : STCF1   ST Chemistry Fridge      Col : 2    Row : 1    <view7> 
+   Container : STIIFA010   Immuno Fluorescence Rack 10      Storage Place : STCF1   ST Chemistry Fridge      Col : 1    Row : 7    <view9> 
+
+ ,
+ST04414393,  Storage Information
+ Storage Information 
+
+   Container : STC0014   ST cITm                                                                                        Col : 1   Row : 7   <view1> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 5   <view3> 
+
+ ,
+ST04414458,  Storage Information
+ Storage Information 
+
+   Container : STCR032   Chemistry Routine Rack 32        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 3   <view1> 
+   Container : STCR033   Chemistry Routine Rack 33        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4    Row : 1   <view3> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2    Row : 5   <view5> 
+   Container : STHR020   Haematology Routine Rack 20      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7    Row : 2   <view7> 
+
+ ,
+ST04414464,  Storage Information
+ Storage Information 
+
+   Container : STCR032     Chemistry Routine Rack 32        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 6   <view1> 
+   Container : STCR033     Chemistry Routine Rack 33        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 5   <view3> 
+   Container : STCR041     Chemistry Routine Rack 41        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 7   <view5> 
+   Container : STHR019     Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 8   <view7> 
+   Container : STIEIA011   ELISA Rack 11                    Storage Place : STGENSP   ST Generic Storage Place            Col : 9   Row : F   <view9> 
+
+ ,
+ST04414479,  Storage Information
+ Storage Information 
+
+   Container : STC0014   ST cITm                                                                                        Col : 3   Row : 9    <view1> 
+                                                                                                                        Col : 1   Row : 10   <view2> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 3    <view4> 
+
+ ,
+ST04414493,  Storage Information
+ Storage Information 
+
+   Container : STCR030   Chemistry Routine Rack 30        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 10   <view1> 
+   Container : STCR032   Chemistry Routine Rack 32        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9    Row : 3    <view3> 
+   Container : STCR041   Chemistry Routine Rack 41        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7    Row : 7    <view5> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5    Row : 9    <view7> 
+
+ ,
+ST04414499,  Storage Information
+ Storage Information 
+
+   Container : STC0014   ST cITm                                                                                        Col : 2    Row : 16   <view1> 
+   Container : STCR051   Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1    Row : 8    <view3> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1    Row : 8    <view5> 
+                                                                                                                        Col : 10   Row : 8    <view6> 
+
+ ,
+ST04414505,  Storage Information
+ Storage Information 
+
+   Container : STC0014     ST cITm                                                                           Col : 5   Row : 10   <view1> 
+   Container : STIIFA011   Immuno Fluorescence Rack 11      Storage Place : STCF1   ST Chemistry Fridge      Col : 6   Row : 8    <view3> 
+
+ ,
+ST04414550,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                        Col : 4   Row : 7    <view1> 
+   Container : STCR032   Chemistry Routine Rack 32        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 7    <view3> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 10   <view5> 
+
+ ,
+ST04414627,  Storage Information
+ Storage Information 
+
+   Container : STC0015     ST cITm                                                                                        Col : 4    Row : 16   <view1> 
+                                                                                                                          Col : 3    Row : 18   <view2> 
+                                                                                                                          Col : 5    Row : 18   <view3> 
+   Container : STCR033     Chemistry Routine Rack 33        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3    Row : 10   <view5> 
+                                                                                                                          Col : 10   Row : 10   <view6> 
+   Container : STCR035     Chemistry Routine Rack 35        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5    Row : 2    <view8> 
+                                                                                                                          Col : 4    Row : 5    <view9> 
+   Container : STHR020     Haematology Routine Rack 20      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8    Row : 1    <view11> 
+                                                                                                                          Col : 5    Row : 3    <view12> 
+   Container : STIEIA014   ELISA Rack 14                    Storage Place : STGENSP   ST Generic Storage Place            Col : 7    Row : B    <view14> 
+
+ ,
+ST04414640,  Storage Information
+ Storage Information 
+
+   Container : STCR031   Chemistry Routine Rack 31      Storage Place : STCF1   ST Chemistry Fridge      Col : 5   Row : 5   <view1> 
+
+ ,
+ST04414670,  Storage Information
+ Storage Information 
+
+   Container : STCR032   Chemistry Routine Rack 32      Storage Place : STCF1   ST Chemistry Fridge      Col : 8   Row : 6   <view1> 
+                                                                                                         Col : 9   Row : 6   <view2> 
+                                                                                                         Col : 5   Row : 7   <view3> 
+
+ ,
+ST04414692,  Storage Information
+ Storage Information 
+
+   Container : STCR031   Chemistry Routine Rack 31        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6    Row : 5   <view1> 
+   Container : STCR033   Chemistry Routine Rack 33        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1    Row : 5   <view3> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 3   <view5> 
+
+ ,
+ST04414699,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                        Col : 4    Row : 14   <view1> 
+                                                                                                                        Col : 1    Row : 17   <view2> 
+   Container : STHR021   Haematology Routine Rack 21      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 1    <view4> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 10   <view6> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4    Row : 6    <view8> 
+
+ ,
+ST04414703,  Storage Information
+ Storage Information 
+
+   Container : STCR031   Chemistry Routine Rack 31      Storage Place : STCF1   ST Chemistry Fridge      Col : 6   Row : 10   <view1> 
+                                                                                                         Col : 7   Row : 10   <view2> 
+                                                                                                         Col : 8   Row : 10   <view3> 
+   Container : STCR033   Chemistry Routine Rack 33      Storage Place : STCF1   ST Chemistry Fridge      Col : 9   Row : 1    <view5> 
+
+ ,
+ST04414705,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                        Col : 1   Row : 12   <view1> 
+   Container : STHR020   Haematology Routine Rack 20      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 3    <view3> 
+
+ ,
+ST04414712,  Storage Information
+ Storage Information 
+
+   Container : STC0015     ST cITm                                                                                Col : 2   Row : 12   <view1> 
+   Container : STCR035     Chemistry Routine Rack 35      Storage Place : STCF1     ST Chemistry Fridge           Col : 2   Row : 2    <view3> 
+   Container : STCR037     Chemistry Routine Rack 37      Storage Place : STCF1     ST Chemistry Fridge           Col : 6   Row : 3    <view5> 
+   Container : STIEIA012   ELISA Rack 12                  Storage Place : STGENSP   ST Generic Storage Place      Col : 3   Row : I    <view7> 
+
+ ,
+ST04414722,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                       Col : 1   Row : 18    <view1> 
+   Container : STVRD02   Virology Received Thursday 2          Storage Place : STGENSP   ST Generic Storage Place      Col : 4   Row : 5     <view3> 
+   Container : STVVL04   Virology HIVVL Received Thursday      Storage Place : STGENSP   ST Generic Storage Place      Col : 8   Row : 101   <view5> 
+
+ ,
+ST04414725,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                        Col : 4    Row : 15   <view1> 
+   Container : STCR034   Chemistry Routine Rack 34        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4    Row : 3    <view3> 
+   Container : STCR040   Chemistry Routine Rack 40        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3    Row : 10   <view5> 
+   Container : STCR041   Chemistry Routine Rack 41        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5    Row : 6    <view7> 
+   Container : STHR020   Haematology Routine Rack 20      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 3    <view9> 
+                                                                                                                        Col : 10   Row : 3    <view10> 
+                                                                                                                        Col : 7    Row : 6    <view11> 
+
+ ,
+ST04414735,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                       Col : 5   Row : 11   <view1> 
+   Container : STVRD02   Virology Received Thursday 2          Storage Place : STGENSP   ST Generic Storage Place      Col : 1   Row : 5    <view3> 
+   Container : STVVL04   Virology HIVVL Received Thursday      Storage Place : STGENSP   ST Generic Storage Place      Col : 2   Row : 51   <view5> 
+
+ ,
+ST04414740,  Storage Information
+ Storage Information 
+
+   Container : STCR035   Chemistry Routine Rack 35      Storage Place : STCF1   ST Chemistry Fridge      Col : 4   Row : 1   <view1> 
+
+ ,
+ST04414762,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm       Col : 4   Row : 8   <view1> 
+
+ ,
+ST04414811,  Storage Information
+ Storage Information 
+
+   Container : STCR033   Chemistry Routine Rack 33        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 5    <view1> 
+   Container : STHR019   Haematology Routine Rack 19      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 10   <view3> 
+
+ ,
+ST04414831,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                        Col : 3   Row : 8   <view1> 
+   Container : STHR020   Haematology Routine Rack 20      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 3   <view3> 
+
+ ,
+ST04414867,  Storage Information
+ Storage Information 
+
+   Container : STC0016   ST cITm                                                                                        Col : 1   Row : 2   <view1> 
+   Container : STHR021   Haematology Routine Rack 21      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 2   <view3> 
+                                                                                                                        Col : 3   Row : 6   <view4> 
+
+ ,
+ST04414931,  Storage Information
+ Storage Information 
+
+   Container : STHR021   Haematology Routine Rack 21      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 1   <view1> 
+
+ ,
+ST04414932,  Storage Information
+ Storage Information 
+
+   Container : STC0015   ST cITm                                                                                        Col : 1   Row : 10   <view1> 
+                                                                                                                        Col : 2   Row : 13   <view2> 
+   Container : STHR020   Haematology Routine Rack 20      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 6    <view4> 
+
+ ,
+ST04415027,  Storage Information
+ Storage Information 
+
+   Container : STC0016   ST cITm                                                                                        Col : 2   Row : 15   <view1> 
+   Container : STHR021   Haematology Routine Rack 21      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 3    <view3> 
+
+ ,
+ST04415034,  Storage Information
+ Storage Information 
+
+   Container : STC0017   ST cITm                                                                                        Col : 2    Row : 1   <view1> 
+   Container : STHR021   Haematology Routine Rack 21      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 5   <view3> 
+
+ ,
+ST04415056,  Storage Information
+ Storage Information 
+
+   Container : STCR034   Chemistry Routine Rack 34      Storage Place : STCF1   ST Chemistry Fridge      Col : 3   Row : 3   <view1> 
+
+ ,
+ST04415093,  Storage Information
+ Storage Information 
+
+   Container : STC0016   ST cITm                                                                                        Col : 3   Row : 14   <view1> 
+   Container : STHR021   Haematology Routine Rack 21      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 3    <view3> 
+
+ ,
+ST04415348,  Storage Information
+ Storage Information 
+
+   Container : STCR034   Chemistry Routine Rack 34      Storage Place : STCF1   ST Chemistry Fridge      Col : 10   Row : 10   <view1> 
+   Container : STCR041   Chemistry Routine Rack 41      Storage Place : STCF1   ST Chemistry Fridge      Col : 10   Row : 3    <view3> 
+
+ ,
+ST04415387,  Storage Information
+ Storage Information 
+
+   Container : STC0018   ST cITm                                                                                        Col : 1   Row : 20   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 7    <view3> 
+
+ ,
+ST04415391,  Storage Information
+ Storage Information 
+
+   Container : STC0018   ST cITm                                                                                        Col : 5   Row : 2   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 9   <view3> 
+
+ ,
+ST04415427,  Storage Information
+ Storage Information 
+
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 9   <view1> 
+
+ ,
+ST04415578,  Storage Information
+ Storage Information 
+
+   Container : STC0018   ST cITm                                                                                        Col : 2   Row : 18   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 8    <view3> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 4    <view5> 
+
+ ,
+ST04415603,  Storage Information
+ Storage Information 
+
+   Container : STCR036   Chemistry Routine Rack 36        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 2   <view1> 
+   Container : STCR041   Chemistry Routine Rack 41        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 2   <view3> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 6   <view5> 
+                                                                                                                        Col : 7   Row : 7   <view6> 
+
+ ,
+ST04415606,  Storage Information
+ Storage Information 
+
+   Container : STCR036   Chemistry Routine Rack 36        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9   Row : 2   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 7   <view3> 
+
+ ,
+ST04415649,  Storage Information
+ Storage Information 
+
+   Container : STC0018   ST cITm                                                                                        Col : 2   Row : 13   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 4    <view3> 
+
+ ,
+ST04415674,  Storage Information
+ Storage Information 
+
+   Container : STCR034   Chemistry Routine Rack 34        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 10   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 5    <view3> 
+
+ ,
+ST04415692,  Storage Information
+ Storage Information 
+
+   Container : STC0018   ST cITm                                                                                        Col : 5    Row : 11   <view1> 
+   Container : STHR022   Haematology Routine Rack 22      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 3    <view3> 
+
+ ,
+ST04415836,  Storage Information
+ Storage Information 
+
+   Container : STC0019   ST cITm                                                                                        Col : 5   Row : 10   <view1> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 3    <view3> 
+
+ ,
+ST04416079,  Storage Information
+ Storage Information 
+
+   Container : STCR037   Chemistry Routine Rack 37        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 10   <view1> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 9    <view3> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 3    <view5> 
+
+ ,
+ST04416085,  Storage Information
+ Storage Information 
+
+   Container : STCR037   Chemistry Routine Rack 37        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9    Row : 10   <view1> 
+   Container : STCR039   Chemistry Routine Rack 39        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3    Row : 6    <view3> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 9    <view5> 
+
+ ,
+ST04416088,  Storage Information
+ Storage Information 
+
+   Container : STCR036   Chemistry Routine Rack 36        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 7   <view1> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 9   <view3> 
+
+ ,
+ST04416254,  Storage Information
+ Storage Information 
+
+   Container : STCR036   Chemistry Routine Rack 36        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5    Row : 9    <view1> 
+   Container : STHR023   Haematology Routine Rack 23      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 10   <view3> 
+
+ ,
+ST04416422,  Storage Information
+ Storage Information 
+
+   Container : STC0022   ST cITm                                                                                        Col : 3   Row : 7    <view1> 
+   Container : STC0026   ST cITm                                                                                        Col : 4   Row : 17   <view3> 
+   Container : STCR044   Chemistry Routine Rack 44        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 10   <view5> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 5    <view7> 
+
+ ,
+ST04416507,  Storage Information
+ Storage Information 
+
+   Container : STCR036   Chemistry Routine Rack 36        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 9   <view1> 
+                                                                                                                        Col : 7   Row : 9   <view2> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 2   <view4> 
+
+ ,
+ST04416792,  Storage Information
+ Storage Information 
+
+   Container : STC0026   ST cITm                                                                                        Col : 1   Row : 1    <view1> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 10   <view3> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 1    <view5> 
+
+ ,
+ST04416795,  Storage Information
+ Storage Information 
+
+   Container : STC0026   ST cITm                                                                                        Col : 2   Row : 1    <view1> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 10   <view3> 
+
+ ,
+ST04416833,  Storage Information
+ Storage Information 
+
+   Container : STC0025   ST cITm                                                                                        Col : 3   Row : 11   <view1> 
+   Container : STC0027   ST cITm                                                                                        Col : 5   Row : 3    <view3> 
+   Container : STHR024   Haematology Routine Rack 24      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 10   <view5> 
+
+ ,
+ST04416918,  Storage Information
+ Storage Information 
+
+   Container : STCR038   Chemistry Routine Rack 38        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 7   <view1> 
+   Container : STCR041   Chemistry Routine Rack 41        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 6   <view3> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 4   <view5> 
+
+ ,
+ST04416960,  Storage Information
+ Storage Information 
+
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 6   <view1> 
+
+ ,
+ST04417112,  Storage Information
+ Storage Information 
+
+   Container : STCR038   Chemistry Routine Rack 38        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 9   <view1> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 8   <view3> 
+
+ ,
+ST04417117,  Storage Information
+ Storage Information 
+
+   Container : STCR038   Chemistry Routine Rack 38        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 8   <view1> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 7   <view3> 
+
+ ,
+ST04417121,  Storage Information
+ Storage Information 
+
+   Container : STCR038   Chemistry Routine Rack 38        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 8   <view1> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 8   <view3> 
+
+ ,
+ST04417123,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 3   <view1> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 8   <view3> 
+
+ ,
+ST04417129,  Storage Information
+ Storage Information 
+
+   Container : STCR038   Chemistry Routine Rack 38      Storage Place : STCF1   ST Chemistry Fridge      Col : 9   Row : 8   <view1> 
+
+ ,
+ST04417155,  Storage Information
+ Storage Information 
+
+   Container : STCR038   Chemistry Routine Rack 38        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 9   <view1> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 6   <view3> 
+
+ ,
+ST04417174,  Storage Information
+ Storage Information 
+
+   Container : SAC0100   SA cITm                          Storage Place : SAGENSP   SA Generic Storage Place            Col : 2   Row : 19   <view1> 
+   Container : STCR051   Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 8    <view3> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 9    <view5> 
+
+ ,
+ST04417184,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 3   Row : 2   <view1> 
+   Container : STHR025   Haematology Routine Rack 25      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 9   <view3> 
+
+ ,
+ST04417219,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 4   Row : 1   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 2   <view3> 
+
+ ,
+ST04417262,  Storage Information
+ Storage Information 
+
+   Container : STCR041   Chemistry Routine Rack 41        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9    Row : 4   <view1> 
+   Container : STCR043   Chemistry Routine Rack 43        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3    Row : 1   <view3> 
+   Container : STCR044   Chemistry Routine Rack 44        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9    Row : 9   <view5> 
+   Container : STCR052   Chemistry Routine Rack 52        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 2   <view7> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 4   <view9> 
+
+ ,
+ST04417267,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 2   Row : 13   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 4    <view3> 
+
+ ,
+ST04417288,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 2   Row : 10   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 3    <view3> 
+
+ ,
+ST04417293,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 1   Row : 8   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 2   <view3> 
+
+ ,
+ST04417302,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 5   Row : 6   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 2   <view3> 
+
+ ,
+ST04417321,  Storage Information
+ Storage Information 
+
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 3   <view1> 
+
+ ,
+ST04417329,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 5   Row : 8   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 2   <view3> 
+                                                                                                                        Col : 6   Row : 6   <view4> 
+
+ ,
+ST04417349,  Storage Information
+ Storage Information 
+
+   Container : STCR042   Chemistry Routine Rack 42        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9   Row : 7   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 5   <view3> 
+                                                                                                                        Col : 1   Row : 9   <view4> 
+
+ ,
+ST04417384,  Storage Information
+ Storage Information 
+
+   Container : STC0030   ST cITm                                                                                        Col : 5   Row : 3   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 1   <view3> 
+
+ ,
+ST04417391,  Storage Information
+ Storage Information 
+
+   Container : STC0028   ST cITm                                                                                        Col : 3   Row : 18   <view1> 
+   Container : STC0029   ST cITm                                                                                        Col : 5   Row : 8    <view3> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 6    <view5> 
+
+ ,
+ST04417444,  Storage Information
+ Storage Information 
+
+   Container : STCR044   Chemistry Routine Rack 44        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 3   <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 8   <view3> 
+
+ ,
+ST04417457,  Storage Information
+ Storage Information 
+
+   Container : STCR051     Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 8   <view1> 
+                                                                                                                          Col : 3   Row : 8   <view2> 
+   Container : STHR028     Haematology Routine Rack 28      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 1   <view4> 
+   Container : STIEIA011   ELISA Rack 11                    Storage Place : STGENSP   ST Generic Storage Place            Col : 1   Row : G   <view6> 
+   Container : STIR003     Immunology Routine Rack 3        Storage Place : STGENSP   ST Generic Storage Place            Col : 1   Row : 9   <view8> 
+
+ ,
+ST04417510,  Storage Information
+ Storage Information 
+
+   Container : STCR042   Chemistry Routine Rack 42        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 6   <view1> 
+   Container : STCR050   Chemistry Routine Rack 50        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 7   <view3> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 5   <view5> 
+                                                                                                                        Col : 4   Row : 7   <view6> 
+
+ ,
+ST04417532,  Storage Information
+ Storage Information 
+
+   Container : STCR042     Chemistry Routine Rack 42        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 6   <view1> 
+                                                                                                                          Col : 3   Row : 7   <view2> 
+   Container : STHR026     Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 6   <view4> 
+                                                                                                                          Col : 3   Row : 7   <view5> 
+   Container : STIEIA015   ELISA Rack 15                    Storage Place : STGENSP   ST Generic Storage Place            Col : 4   Row : B   <view7> 
+
+ ,
+ST04417539,  Storage Information
+ Storage Information 
+
+   Container : STCR042   Chemistry Routine Rack 42        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 6   <view1> 
+   Container : STCR050   Chemistry Routine Rack 50        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 7   <view3> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 5   <view5> 
+                                                                                                                        Col : 8   Row : 5   <view6> 
+                                                                                                                        Col : 1   Row : 7   <view7> 
+
+ ,
+ST04417597,  Storage Information
+ Storage Information 
+
+   Container : STCR044   Chemistry Routine Rack 44      Storage Place : STCF1   ST Chemistry Fridge      Col : 4   Row : 1   <view1> 
+
+ ,
+ST04417602,  Storage Information
+ Storage Information 
+
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 6   <view1> 
+
+ ,
+ST04417607,  Storage Information
+ Storage Information 
+
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 7   <view1> 
+
+ ,
+ST04417631,  Storage Information
+ Storage Information 
+
+   Container : STCR045   Chemistry Routine Rack 45        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 6   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8    Row : 5   <view3> 
+
+ ,
+ST04417641,  Storage Information
+ Storage Information 
+
+   Container : STCR045   Chemistry Routine Rack 45        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 7   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 5   <view3> 
+
+ ,
+ST04417656,  Storage Information
+ Storage Information 
+
+   Container : STCR045   Chemistry Routine Rack 45        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 7   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 5   <view3> 
+
+ ,
+ST04417737,  Storage Information
+ Storage Information 
+
+   Container : STC0030   ST cITm                                                                                        Col : 4    Row : 2   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 6   <view3> 
+
+ ,
+ST04417753,  Storage Information
+ Storage Information 
+
+   Container : STCR044   Chemistry Routine Rack 44        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 3    <view1> 
+   Container : STHR026   Haematology Routine Rack 26      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 10   <view3> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 10   <view5> 
+
+ ,
+ST04417793,  Storage Information
+ Storage Information 
+
+   Container : STC0030     ST cITm                                                                                        Col : 5   Row : 13   <view1> 
+   Container : STHR028     Haematology Routine Rack 28      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 3    <view3> 
+                                                                                                                          Col : 4   Row : 5    <view4> 
+   Container : STIEIA014   ELISA Rack 14                    Storage Place : STGENSP   ST Generic Storage Place            Col : 2   Row : F    <view6> 
+
+ ,
+ST04417810,  Storage Information
+ Storage Information 
+
+   Container : STCR044   Chemistry Routine Rack 44        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 6   <view1> 
+   Container : STCR045   Chemistry Routine Rack 45        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 2   <view3> 
+   Container : STCR056   Chemistry Routine Rack 56        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 4   <view5> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 6   <view7> 
+
+ ,
+ST04417868,  Storage Information
+ Storage Information 
+
+   Container : STCR045   Chemistry Routine Rack 45        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 2   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 4   <view3> 
+
+ ,
+ST04417906,  Storage Information
+ Storage Information 
+
+   Container : STC0029   ST cITm                                                                                        Col : 2   Row : 17   <view1> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 9    <view3> 
+
+ ,
+ST04417938,  Storage Information
+ Storage Information 
+
+   Container : STC0030   ST cITm                                                                                        Col : 4    Row : 1   <view1> 
+                                                                                                                        Col : 1    Row : 8   <view2> 
+   Container : STCR047   Chemistry Routine Rack 47        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 2   <view4> 
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8    Row : 4   <view6> 
+   Container : STHR028   Haematology Routine Rack 28      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 2   <view8> 
+
+ ,
+ST04417970,  Storage Information
+ Storage Information 
+
+   Container : STCR046   Chemistry Routine Rack 46        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 1   <view1> 
+   Container : STCR053   Chemistry Routine Rack 53        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 9   <view3> 
+   Container : STHR027   Haematology Routine Rack 27      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 9   <view5> 
+
+ ,
+ST04418052,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 1   <view1> 
+   Container : STCR053   Chemistry Routine Rack 53        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3    Row : 3   <view3> 
+   Container : STHR028   Haematology Routine Rack 28      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7    Row : 8   <view5> 
+                                                                                                                        Col : 8    Row : 8   <view6> 
+
+ ,
+ST04418057,  Storage Information
+ Storage Information 
+
+   Container : STCR047    Chemistry Routine Rack 47            Storage Place : STCF1     ST Chemistry Fridge                 Col : 6    Row : 1    <view1> 
+                                                                                                                             Col : 1    Row : 2    <view2> 
+                                                                                                                             Col : 2    Row : 2    <view3> 
+                                                                                                                             Col : 3    Row : 2    <view4> 
+   Container : STCR055    Chemistry Routine Rack 55            Storage Place : STCF1     ST Chemistry Fridge                 Col : 2    Row : 2    <view6> 
+   Container : STCR064    Chemistry Routine Rack 64            Storage Place : STCF1     ST Chemistry Fridge                 Col : 1    Row : 1    <view8> 
+   Container : STHR028    Haematology Routine Rack 28          Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 8    <view10> 
+                                                                                                                             Col : 2    Row : 10   <view11> 
+   Container : STVDNA05   Virology HIVPCR Received Friday      Storage Place : STGENSP   ST Generic Storage Place            Col : 1    Row : 11   <view13> 
+   Container : STVRE01    Virology Received Friday 1           Storage Place : STGENSP   ST Generic Storage Place            Col : 7    Row : 2    <view15> 
+
+ ,
+ST04418062,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 4   <view1> 
+   Container : STHR028   Haematology Routine Rack 28      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 9   <view3> 
+
+ ,
+ST04418067,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47           Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 3   <view1> 
+   Container : STHR028   Haematology Routine Rack 28         Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 9   <view3> 
+   Container : STIR005   Immunology Routine Rack 5           Storage Place : STGENSP   ST Generic Storage Place            Col : 6   Row : 6   <view5> 
+   Container : STVRD04   Virology Received Thursday 4        Storage Place : STGENSP   ST Generic Storage Place            Col : 8   Row : 6   <view7> 
+   Container : STVVL01   Virology HIVVL Received Monday      Storage Place : STGENSP   ST Generic Storage Place            Col : 9   Row : 6   <view9> 
+
+ ,
+ST04418070,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47      Storage Place : STCF1     ST Chemistry Fridge           Col : 2   Row : 1   <view1> 
+   Container : STCR061   Chemistry Routine Rack 61      Storage Place : STCF1     ST Chemistry Fridge           Col : 8   Row : 9   <view3> 
+   Container : STIR004   Immunology Routine Rack 4      Storage Place : STGENSP   ST Generic Storage Place      Col : 6   Row : 6   <view5> 
+   Container : STIR006   Immunology Routine Rack 6      Storage Place : STGENSP   ST Generic Storage Place      Col : 2   Row : 6   <view7> 
+
+ ,
+ST04418094,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47      Storage Place : STCF1   ST Chemistry Fridge      Col : 9   Row : 1   <view1> 
+
+ ,
+ST04418097,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47      Storage Place : STCF1   ST Chemistry Fridge      Col : 7   Row : 1   <view1> 
+
+ ,
+ST04418098,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47      Storage Place : STCF1   ST Chemistry Fridge      Col : 8   Row : 1   <view1> 
+
+ ,
+ST04418140,  Storage Information
+ Storage Information 
+
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 1   <view1> 
+
+ ,
+ST04418155,  Storage Information
+ Storage Information 
+
+   Container : STC0030   ST cITm       Col : 3   Row : 14   <view1> 
+   Container : STC0032   ST cITm       Col : 2   Row : 11   <view3> 
+
+ ,
+ST04418227,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 6   <view1> 
+                                                                                                                        Col : 3   Row : 7   <view2> 
+   Container : STCR057   Chemistry Routine Rack 57        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 2   <view4> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 5   <view6> 
+
+ ,
+ST04418252,  Storage Information
+ Storage Information 
+
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 2   <view1> 
+
+ ,
+ST04418312,  Storage Information
+ Storage Information 
+
+   Container : STC0032   ST cITm                                                                                        Col : 1   Row : 2   <view1> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 2   <view3> 
+
+ ,
+ST04418376,  Storage Information
+ Storage Information 
+
+   Container : STC0033   ST cITm                                                                                        Col : 3   Row : 7   <view1> 
+   Container : STCR051   Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 9   <view3> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 6   <view5> 
+
+ ,
+ST04418452,  Storage Information
+ Storage Information 
+
+   Container : STCR049   Chemistry Routine Rack 49        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 3    <view1> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 10   <view3> 
+   Container : STHR030   Haematology Routine Rack 30      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 1    <view5> 
+
+ ,
+ST04418462,  Storage Information
+ Storage Information 
+
+   Container : STCR046   Chemistry Routine Rack 46        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 8   <view1> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 7   <view3> 
+
+ ,
+ST04418506,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+ST04418514,  Storage Information
+ Storage Information 
+
+   Container : STCR049   Chemistry Routine Rack 49      Storage Place : STCF1   ST Chemistry Fridge      Col : 1   Row : 2   <view1> 
+
+ ,
+ST04418522,  Storage Information
+ Storage Information 
+
+   Container : STCR048   Chemistry Routine Rack 48        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 1   <view1> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8    Row : 8   <view3> 
+
+ ,
+ST04418525,  Storage Information
+ Storage Information 
+
+   Container : STCR046   Chemistry Routine Rack 46        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 7   <view1> 
+   Container : STCR048   Chemistry Routine Rack 48        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 2   <view3> 
+   Container : STHR029   Haematology Routine Rack 29      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 8   <view5> 
+
+ ,
+ST04418629,  Storage Information
+ Storage Information 
+
+   Container : STCR047   Chemistry Routine Rack 47        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 9   <view1> 
+   Container : STHR030   Haematology Routine Rack 30      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 2   <view3> 
+
+ ,
+ST04419049,  Storage Information
+ Storage Information 
+
+   Container : STC0037   ST cITm                                                                                        Col : 2   Row : 3   <view1> 
+   Container : STHR031   Haematology Routine Rack 31      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 4   <view3> 
+
+ ,
+ST04419366,  Storage Information
+ Storage Information 
+
+   Container : STC0039   ST cITm                                                                                        Col : 3   Row : 16   <view1> 
+   Container : STCR051   Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 6    <view3> 
+   Container : STHR031   Haematology Routine Rack 31      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 10   <view5> 
+
+ ,
+ST04419384,  Storage Information
+ Storage Information 
+
+   Container : STC0039   ST cITm                                                                                        Col : 5   Row : 15   <view1> 
+   Container : STHR031   Haematology Routine Rack 31      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 9    <view3> 
+
+ ,
+ST04419625,  Storage Information
+ Storage Information 
+
+   Container : STCR051   Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9   Row : 5   <view1> 
+   Container : STHR032   Haematology Routine Rack 32      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 4   <view3> 
+
+ ,
+ST04419738,  Storage Information
+ Storage Information 
+
+   Container : STCR051   Chemistry Routine Rack 51        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 10   <view1> 
+   Container : STHR032   Haematology Routine Rack 32      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 6    <view3> 
+
+ ,
+ST04419801,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4    Row : 5    <view1> 
+   Container : STHR032   Haematology Routine Rack 32      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 10   <view3> 
+
+ ,
+ST04419804,  Storage Information
+ Storage Information 
+
+   Container : STHR032   Haematology Routine Rack 32      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 10   <view1> 
+
+ ,
+ST04419806,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 4   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 2   <view3> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 3   <view5> 
+
+ ,
+ST04419829,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 4    <view1> 
+   Container : STHR032   Haematology Routine Rack 32      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 1   Row : 10   <view3> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 2    <view5> 
+
+ ,
+ST04419843,  Storage Information
+ Storage Information 
+
+   Container : STC0042   ST cITm                                                                                        Col : 3   Row : 10   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 1    <view3> 
+
+ ,
+ST04419846,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 8   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 1   <view3> 
+
+ ,
+ST04419882,  Storage Information
+ Storage Information 
+
+   Container : STC0042   ST cITm                                                                                        Col : 2   Row : 11   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 6    <view3> 
+
+ ,
+ST04419884,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 4    <view1> 
+   Container : STHR032   Haematology Routine Rack 32      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 10   <view3> 
+
+ ,
+ST04419889,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 4   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 2   <view3> 
+
+ ,
+ST04419893,  Storage Information
+ Storage Information 
+
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 2   <view1> 
+
+ ,
+ST04419934,  Storage Information
+ Storage Information 
+
+   Container : STC0042   ST cITm       Col : 3   Row : 4   <view1> 
+
+ ,
+ST04419953,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 5   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 2   <view3> 
+
+ ,
+ST04419972,  Storage Information
+ Storage Information 
+
+   Container : STC0042   ST cITm                                                                                        Col : 2   Row : 3   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 3   <view3> 
+
+ ,
+ST04420074,  Storage Information
+ Storage Information 
+
+   Container : STC0042   ST cITm                                                                                        Col : 4    Row : 11   <view1> 
+   Container : STCR057   Chemistry Routine Rack 57        Storage Place : STCF1     ST Chemistry Fridge                 Col : 10   Row : 1    <view3> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5    Row : 7    <view5> 
+
+ ,
+ST04420128,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 6   <view1> 
+                                                                                                                        Col : 5   Row : 8   <view2> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 5   <view4> 
+   Container : STHR035   Haematology Routine Rack 35      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 8   <view6> 
+
+ ,
+ST04420132,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 6    <view1> 
+                                                                                                                        Col : 6   Row : 8    <view2> 
+   Container : STCR057   Chemistry Routine Rack 57        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 2    <view4> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 5    <view6> 
+                                                                                                                        Col : 6   Row : 5    <view7> 
+                                                                                                                        Col : 1   Row : 10   <view8> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 2    <view10> 
+
+ ,
+ST04420135,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 6   <view1> 
+                                                                                                                        Col : 7   Row : 8   <view2> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2   Row : 5   <view4> 
+                                                                                                                        Col : 3   Row : 5   <view5> 
+
+ ,
+ST04420168,  Storage Information
+ Storage Information 
+
+   Container : STCR056   Chemistry Routine Rack 56      Storage Place : STCF1   ST Chemistry Fridge      Col : 10   Row : 5   <view1> 
+
+ ,
+ST04420307,  Storage Information
+ Storage Information 
+
+   Container : STC0043   ST cITm                                                                                        Col : 1   Row : 20   <view1> 
+   Container : STHR035   Haematology Routine Rack 35      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 3    <view3> 
+
+ ,
+ST04420366,  Storage Information
+ Storage Information 
+
+   Container : STC0043   ST cITm                                                                                        Col : 1   Row : 10   <view1> 
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 9    <view3> 
+   Container : STHR035   Haematology Routine Rack 35      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 7    <view5> 
+   Container : STHR046   Haematology Routine Rack 46      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 4   Row : 2    <view7> 
+
+ ,
+ST04420372,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8    Row : 8   <view1> 
+                                                                                                                        Col : 10   Row : 9   <view2> 
+   Container : STCR056   Chemistry Routine Rack 56        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2    Row : 6   <view4> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9    Row : 9   <view6> 
+   Container : STHR035   Haematology Routine Rack 35      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 2    Row : 1   <view8> 
+                                                                                                                        Col : 8    Row : 6   <view9> 
+
+ ,
+ST04420417,  Storage Information
+ Storage Information 
+
+   Container : STC0043   ST cITm                                                                                        Col : 5   Row : 11   <view1> 
+   Container : STHR035   Haematology Routine Rack 35      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 2    <view3> 
+
+ ,
+ST04420419,  Storage Information
+ Storage Information 
+
+   Container : STCR054   Chemistry Routine Rack 54        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 10   <view1> 
+   Container : STHR033   Haematology Routine Rack 33      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 10   <view3> 
+
+ ,
+ST04420462,  Storage Information
+ Storage Information 
+
+   Container : STCR056   Chemistry Routine Rack 56           Storage Place : STCF1     ST Chemistry Fridge             Col : 2    Row : 7    <view1> 
+   Container : STIR006   Immunology Routine Rack 6           Storage Place : STGENSP   ST Generic Storage Place        Col : 10   Row : 5    <view3> 
+   Container : STVRE02   Virology Received Friday 2                                                                    Col : 10   Row : 19   <view5> 
+   Container : STVRE03   Virology Received Friday 3          Storage Place : STVF1     ST Virology Storage Fridge      Col : 10   Row : 1    <view7> 
+   Container : STVVL01   Virology HIVVL Received Monday      Storage Place : STGENSP   ST Generic Storage Place        Col : 10   Row : 56   <view9> 
+                                                                                                                       Col : 1    Row : 57   <view10> 
+
+ ,
+ST04420709,  Storage Information
+ Storage Information 
+
+   Container : STHR036   Haematology Routine Rack 36      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 1   <view1> 
+
+ ,
+ST04420843,  Storage Information
+ Storage Information 
+
+   Container : STCR059   Chemistry Routine Rack 59        Storage Place : STCF1     ST Chemistry Fridge                 Col : 8   Row : 5   <view1> 
+   Container : STHR036   Haematology Routine Rack 36      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 7   <view3> 
+
+ ,
+ST04420991,  Storage Information
+ Storage Information 
+
+   Container : STCR057   Chemistry Routine Rack 57        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5    Row : 8   <view1> 
+                                                                                                                        Col : 6    Row : 8   <view2> 
+                                                                                                                        Col : 7    Row : 8   <view3> 
+   Container : STCR059   Chemistry Routine Rack 59        Storage Place : STCF1     ST Chemistry Fridge                 Col : 9    Row : 4   <view5> 
+   Container : STHR036   Haematology Routine Rack 36      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 10   Row : 7   <view7> 
+                                                                                                                        Col : 2    Row : 9   <view8> 
+   Container : STHR037   Haematology Routine Rack 37      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8    Row : 4   <view10> 
+
+ ,
+ST04421069,  Storage Information
+ Storage Information 
+
+   Container : STC0045   ST cITm                                                                                        Col : 1   Row : 17   <view1> 
+   Container : STHR036   Haematology Routine Rack 36      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 9    <view3> 
+
+ ,
+ST04421456,  Storage Information
+ Storage Information 
+
+   Container : STCR061   Chemistry Routine Rack 61      Storage Place : STCF1   ST Chemistry Fridge      Col : 8   Row : 5   <view1> 
+
+ ,
+ST04421551,  Storage Information
+ Storage Information 
+
+   Container : STC0049   ST cITm                                                                                        Col : 4   Row : 13   <view1> 
+   Container : STHR038   Haematology Routine Rack 38      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 2    <view3> 
+
+ ,
+ST04422026,  Storage Information
+ Storage Information 
+
+   Container : STC0052   ST cITm                                                                                        Col : 2   Row : 2    <view1> 
+   Container : STHR038   Haematology Routine Rack 38      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 10   <view3> 
+
+ ,
+ST04422142,  Storage Information
+ Storage Information 
+
+   Container : SGCCHEMR11   Chemistry Rack 11                Storage Place : SGGENSP   SG Generic Storage Place            Col : 6   Row : 17   <view1> 
+   Container : STCR061      Chemistry Routine Rack 61        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 10   <view3> 
+   Container : STHR039      Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 1    <view5> 
+
+ ,
+ST04422184,  Storage Information
+ Storage Information 
+
+   Container : STC0054   ST cITm                                                                                        Col : 2   Row : 5   <view1> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 5   <view3> 
+
+ ,
+ST04422423,  Storage Information
+ Storage Information 
+
+   Container : STCR062   Chemistry Routine Rack 62        Storage Place : STCF1     ST Chemistry Fridge                 Col : 1   Row : 5   <view1> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 6   Row : 8   <view3> 
+
+ ,
+ST04422426,  Storage Information
+ Storage Information 
+
+   Container : STCR062   Chemistry Routine Rack 62        Storage Place : STCF1     ST Chemistry Fridge                 Col : 7   Row : 4   <view1> 
+   Container : STCR068   Chemistry Routine Rack 68        Storage Place : STCF1     ST Chemistry Fridge                 Col : 2   Row : 4   <view3> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 8   <view5> 
+
+ ,
+ST04422462,  Storage Information
+ Storage Information 
+
+   Container : STC0055   ST cITm       Col : 3   Row : 15   <view1> 
+
+ ,
+ST04422474,  Storage Information
+ Storage Information 
+
+   Container : STC0055   ST cITm                                                                                        Col : 2   Row : 15   <view1> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 9    <view3> 
+
+ ,
+ST04422494,  Storage Information
+ Storage Information 
+
+   Container : STCR062   Chemistry Routine Rack 62      Storage Place : STCF1   ST Chemistry Fridge      Col : 5   Row : 6   <view1> 
+
+ ,
+ST04422495,  Storage Information
+ Storage Information 
+
+   Container : STCR062   Chemistry Routine Rack 62        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 6    <view1> 
+   Container : STHR039   Haematology Routine Rack 39      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 10   <view3> 
+
+ ,
+ST04422552,  Storage Information
+ Storage Information 
+
+   Container : STC0056   ST cITm                                                                                        Col : 3   Row : 3   <view1> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 2   <view3> 
+
+ ,
+ST04422573,  Storage Information
+ Storage Information 
+
+   Container : STC0056   ST cITm                                                                                        Col : 1   Row : 2   <view1> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 3   <view3> 
+
+ ,
+ST04422624,  Storage Information
+ Storage Information 
+
+   Container : STCR063   Chemistry Routine Rack 63        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 3   <view1> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 8   Row : 5   <view3> 
+
+ ,
+ST04422628,  Storage Information
+ Storage Information 
+
+   Container : STC0056   ST cITm       Col : 5   Row : 9   <view1> 
+
+ ,
+ST04422652,  Storage Information
+ Storage Information 
+
+   Container : STCR063   Chemistry Routine Rack 63        Storage Place : STCF1     ST Chemistry Fridge                 Col : 6   Row : 6   <view1> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 6   <view3> 
+
+ ,
+ST04422669,  Storage Information
+ Storage Information 
+
+   Container : STCR063   Chemistry Routine Rack 63        Storage Place : STCF1     ST Chemistry Fridge                 Col : 5   Row : 7   <view1> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 6   <view3> 
+
+ ,
+ST04422689,  Storage Information
+ Storage Information 
+
+   Container : STCR063   Chemistry Routine Rack 63      Storage Place : STCF1   ST Chemistry Fridge      Col : 5   Row : 8   <view1> 
+   Container : STCR072   Chemistry Routine Rack 72      Storage Place : STCF1   ST Chemistry Fridge      Col : 6   Row : 2   <view3> 
+
+ ,
+ST04422759,  Storage Information
+ Storage Information 
+
+   Container : STCR068   Chemistry Routine Rack 68      Storage Place : STCF1   ST Chemistry Fridge      Col : 5   Row : 3   <view1> 
+
+ ,
+ST04422773,  Storage Information
+ Storage Information 
+
+   Container : STC0057   ST cITm                                                                         Col : 3   Row : 4   <view1> 
+   Container : STCR076   Chemistry Routine Rack 76      Storage Place : STCF1   ST Chemistry Fridge      Col : 5   Row : 3   <view3> 
+
+ ,
+ST04422783,  Storage Information
+ Storage Information 
+
+   Container : STCR068   Chemistry Routine Rack 68        Storage Place : STCF1     ST Chemistry Fridge                 Col : 4   Row : 3    <view1> 
+   Container : STCR085   Chemistry Routine Rack 85        Storage Place : STCF1     ST Chemistry Fridge                 Col : 3   Row : 2    <view3> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 9   Row : 10   <view5> 
+
+ ,
+ST04422788,  Storage Information
+ Storage Information 
+
+   Container : STC0057   ST cITm                                                                                        Col : 2   Row : 2    <view1> 
+   Container : STC0062   ST cITm                                                                                        Col : 3   Row : 3    <view3> 
+   Container : STHR040   Haematology Routine Rack 40      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 3   Row : 10   <view5> 
+
+ ,
+ST04422906,  Storage Information
+ Storage Information 
+
+   Container : STC0057   ST cITm                                                                                        Col : 3   Row : 16   <view1> 
+   Container : STHR041   Haematology Routine Rack 41      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 7   Row : 3    <view3> 
+
+ ,
+ST04422933,  Storage Information
+ Storage Information 
+
+   Container : STCR067   Chemistry Routine Rack 67      Storage Place : STCF1   ST Chemistry Fridge      Col : 3   Row : 2   <view1> 
+
+ ,
+ST04422934,  Storage Information
+ Storage Information 
+
+   Container : STC0057   ST cITm                                                                                        Col : 3   Row : 17   <view1> 
+   Container : STHR041   Haematology Routine Rack 41      Storage Place : STHBEN1   ST Haematology Bench Room Temp      Col : 5   Row : 5    <view3> 
+
+ ,

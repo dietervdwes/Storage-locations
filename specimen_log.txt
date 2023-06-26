@@ -1,0 +1,54 @@
+SA05894333,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA05890635,  Storage Information
+ Storage Information 
+
+   Container : SAC0006     SA cITm                  Storage Place : SAGENSP   SA Generic Storage Place      Col : 3   Row : 24   <view1> 
+   Container : SACMAN153   SAC Manual Rack 153      Storage Place : SAGENSP   SA Generic Storage Place      Col : E   Row : 10   <view3> 
+
+ ,
+SA05894431,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA05891362,  Storage Information
+ Storage Information 
+
+   Container : SAC0007     SA cITm                     Storage Place : SAGENSP   SA Generic Storage Place      Col : 3   Row : 11   <view1> 
+                                                                                                               Col : 4   Row : 11   <view2> 
+   Container : SAHPRMO02   SAH Prep Monday Rack 2      Storage Place : SAGENSP   SA Generic Storage Place      Col : H   Row : 2    <view4> 
+   Container : SAHPRMO1    SAH Prep Monday Rack 1      Storage Place : SAGENSP   SA Generic Storage Place      Col : G   Row : 10   <view6> 
+
+ ,
+SA05890547,  Storage Information
+ Storage Information 
+
+   Container : SAC0005     SA cITm                      Storage Place : SAGENSP   SA Generic Storage Place                  Col : 4   Row : 5    <view1> 
+   Container : SAC0006     SA cITm                      Storage Place : SAGENSP   SA Generic Storage Place                  Col : 2   Row : 20   <view3> 
+   Container : SACMAN153   SAC Manual Rack 153          Storage Place : SAGENSP   SA Generic Storage Place                  Col : A   Row : 3    <view5> 
+   Container : SACMAN93    SAC Manual Rack 93           Storage Place : SAGENSP   SA Generic Storage Place                  Col : A   Row : 11   <view7> 
+   Container : SAH19       SA XN 9000 816             Storage Place : SAGENSP   SA Generic Storage Place                  Col : 3   Row : 11   <view9> 
+   Container : SAHPRMO1    SAH Prep Monday Rack 1       Storage Place : SAGENSP   SA Generic Storage Place                  Col : H   Row : 4    <view11> 
+   Container : SAVVLB01    SA HIVVL Tuesday Rack 1      Storage Place : SAVF1     SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2    <view13> 
+   Container : SAVVLB05    SA HIVVL Tuesday Rack 5      Storage Place : SAVF1     SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3    <view15> 
+
+ ,
+SA05891025,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA05891043,  Storage Information
+ Storage Information 
+
+   Container : SAC0008   SA cITm       Storage Place : SAGENSP   SA Generic Storage Place      Col : 5   Row : 6   <view1> 
+   Container : SAC0019   SA cITm       Storage Place : SAGENSP   SA Generic Storage Place      Col : 2   Row : 4   <view3> 
+
+ ,

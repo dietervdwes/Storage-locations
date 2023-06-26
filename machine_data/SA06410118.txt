@@ -1,0 +1,29 @@
+SA06410118,  Instrument/SendTest Events Information
+ Instrument/SendTest Events Information 
+
+   18/01/2023 00:20      Type : IR   Sample SA06410118 loaded on RSA Pro
+   18/01/2023 00:20      Type : IR   Result received from instrument(s): C6000-A:E1-1,C6000-B:C2,C6000-B:ISE1
+   18/01/2023 00:18      Type : IR   Sample SA06410118 loaded on RSA Pro
+   17/01/2023 23:28      Type : IR   Result received from instrument <SAC02> : <AFP>
+   17/01/2023 23:28      Type : IR   Result received from instrument(s): C6000-A:E1-1
+   17/01/2023 23:07      Type : IR   Sample SA06410118 loaded on C6000-A
+   17/01/2023 20:54      Type : IR   Result received from instrument <SAH02> : <RCC,HB,HCT,MCV,MCH,MCHC,RDW,PLT,CWCC,NEUT%,LYMP%,MONO%,EOS%,BASO%,IC%,NEUT#,LYMP#,MONO#,EOS#,BASO#,IC#>
+   17/01/2023 20:54      Type : IR   Result received from instrument <XN-9000> with serial <12773>
+   17/01/2023 20:51      Type : IR   Sample SA06410118 loaded on instrument <CT-90>
+   17/01/2023 19:32      Type : IR   Sample SA06410118 loaded on C6000-B
+   17/01/2023 19:27      Type : IR   Sample SA06410118 loaded on C6000-B
+   17/01/2023 19:25      Type : IR   Sample SA06410118 loaded on C6000-B
+   17/01/2023 19:24      Type : IR   Sample SA06410118 loaded on RSA Pro
+   17/01/2023 19:24      Type : IR   Sample SA06410118 loaded on RSA Pro
+   17/01/2023 19:24      Type : IR   Sample SA06410118 loaded on RSA Pro
+   17/01/2023 19:24      Type : IR   Sample SA06410118 loaded on RSA Pro
+   17/01/2023 19:22      Type : IR   Result received from instrument <SAC02> : <MACH,NA,K,UREA,CREAT,CA,TP,ALB,TBIL,CBIL,ALT,AST,ALP,GGT,LD,IGG,IGA,IGM,SHBV,SBILV,SLIPV,SHBI,SBILI,SLIPI>
+   17/01/2023 19:22      Type : IR   Result received from instrument(s): C6000-B:C2,C6000-B:ISE1
+    
+      Legend : 
+      	IR	Instrument Result(s) Received
+      	IS	Instrument Result(s) Sent
+      	ST	Sent Test(s)
+      	RT	Received Test(s)
+
+

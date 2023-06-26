@@ -1,0 +1,31 @@
+SA06377561,  Instrument/SendTest Events Information
+ Instrument/SendTest Events Information 
+
+   04/01/2023 10:03      Type : RT   Following tests <ACER> are received at <MG> from <SA> on <660> by keitumetse.rakhudu
+   03/01/2023 11:39      Type : ST   Following tests <ACER> are sent from <SA> to <MG> on <660> by nobulali.coko
+   02/01/2023 18:16      Type : IR   Result received from instrument(s): C6000-A:E1-2,C6000-B:C2,C6000-B:ISE1
+   02/01/2023 18:16      Type : IR   Sample SA06377561 loaded on RSA Pro
+   02/01/2023 18:15      Type : IR   Sample SA06377561 loaded on RSA Pro
+   02/01/2023 15:32      Type : IR   Result received from instrument <SAC02> : <CORT>
+   02/01/2023 15:32      Type : IR   Result received from instrument(s): C6000-A:E1-2,C6000-B:C2,C6000-B:ISE1
+   02/01/2023 15:12      Type : IR   Sample SA06377561 loaded on C6000-A
+   02/01/2023 15:06      Type : IR   Result received from instrument <SAC02> : <NA,K>
+   02/01/2023 15:06      Type : IR   Result received from instrument <SAC02> : <MACH,UREA,CREAT,TP,ALB,TBIL,CBIL,ALT,AST,ALP,GGT,SHBV,SBILV,SLIPV,SHBI,SBILI,SLIPI>
+   02/01/2023 15:06      Type : IR   Result received from instrument(s): C6000-B:ISE1
+   02/01/2023 15:06      Type : IR   Result received from instrument(s): C6000-B:C2
+   02/01/2023 14:20      Type : IR   Sample SA06377561 loaded on C6000-B
+   02/01/2023 14:19      Type : IR   Sample SA06377561 loaded on RSA Pro
+   02/01/2023 14:19      Type : IR   Sample SA06377561 loaded on RSA Pro
+   02/01/2023 14:19      Type : IR   Sample SA06377561 loaded on RSA Pro
+   02/01/2023 14:16      Type : IR   Sample SA06377561 loaded on RSA Pro
+   02/01/2023 14:08      Type : IR   Result received from instrument <SAH02> : <RCC,HB,HCT,MCV,MCH,MCHC,RDW,PLT,CWCC>
+   02/01/2023 14:08      Type : IR   Result received from instrument <XN-9000> with serial <12772>
+   02/01/2023 13:59      Type : IR   Sample SA06377561 loaded on instrument <CT-90>
+    
+      Legend : 
+      	IR	Instrument Result(s) Received
+      	IS	Instrument Result(s) Sent
+      	ST	Sent Test(s)
+      	RT	Received Test(s)
+
+ 

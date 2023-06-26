@@ -1,0 +1,3 @@
+02/01/2023 14:20      Type : IR   Sample SA06377561 loaded on C6000
+10/01/2023 18:40      Type : IR   Sample SA06393122 loaded on C6000
+17/01/2023 19:25      Type : IR   Sample SA06410118 loaded on C6000

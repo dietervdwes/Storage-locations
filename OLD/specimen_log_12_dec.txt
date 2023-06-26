@@ -1,0 +1,2915 @@
+SA04383208,  Storage Information
+ Storage Information 
+
+   Container : SAVMS371   SA Sample Aliquots Box 371      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04383209,  Storage Information
+ Storage Information 
+
+   Container : SAVMS371   SA Sample Aliquots Box 371      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+SA04383653,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04383658,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04383767,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04383828,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04383911,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+SA04383954,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 7   <view1> 
+
+ ,
+SA04383957,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+SA04384082,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 3   <view1> 
+
+ ,
+SA04384099,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04384180,  Storage Information
+ Storage Information 
+
+   Container : SAVMS304   SA Sample Aliquots Box 304      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+SA04384183,  Storage Information
+ Storage Information 
+
+   Container : SAVMS304   SA Sample Aliquots Box 304      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+SA04384528,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04384819,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+SA04384828,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 8   <view1> 
+
+ ,
+SA04385119,  Storage Information
+ Storage Information 
+
+   Container : SAVMS313   SA Sample Aliquots Box 313      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+SA04385188,  Storage Information
+ Storage Information 
+
+   Container : SAVMS313   SA Sample Aliquots Box 313      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+
+ ,
+SA04385192,  Storage Information
+ Storage Information 
+
+   Container : SAVMS313   SA Sample Aliquots Box 313      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+
+ ,
+SA04385717,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 3   <view1> 
+
+ ,
+SA04385757,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+SA04385781,  Storage Information
+ Storage Information 
+
+   Container : SAVMS313   SA Sample Aliquots Box 313      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+SA04386559,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+SA04386687,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04386815,  Storage Information
+ Storage Information 
+
+   Container : SAVMS317   SA Sample Aliquots Box 317      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04386825,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04386948,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04386949,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 8   <view1> 
+
+ ,
+SA04386996,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04387001,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 4   <view1> 
+
+ ,
+SA04387012,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+SA04387014,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 3   <view1> 
+
+ ,
+SA04387018,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 3   <view1> 
+
+ ,
+SA04387021,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04387041,  Storage Information
+ Storage Information 
+
+   Container : SAVMS317   SA Sample Aliquots Box 317      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 1   <view1> 
+
+ ,
+SA04387170,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+SA04387616,  Storage Information
+ Storage Information 
+
+   Container : SAVMS319   SA Sample Aliquots Box 319      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 1   <view1> 
+
+ ,
+SA04387619,  Storage Information
+ Storage Information 
+
+   Container : SAVMS319   SA Sample Aliquots Box 319      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 1   <view1> 
+
+ ,
+SA04387756,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+SA04387766,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04387801,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04387815,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 1   <view1> 
+
+ ,
+SA04387836,  Storage Information
+ Storage Information 
+
+   Container : SAVMS317   SA Sample Aliquots Box 317      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 1   <view1> 
+
+ ,
+SA04387885,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+SA04387890,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04387994,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+SA04388024,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04388037,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 7   <view1> 
+
+ ,
+SA04388076,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+SA04388081,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+SA04388083,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+
+ ,
+SA04388464,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04388466,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 1   <view1> 
+
+ ,
+SA04388490,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 1   <view1> 
+
+ ,
+SA04388497,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+SA04388508,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 2   <view1> 
+
+ ,
+SA04388538,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04388573,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04388594,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+SA04388693,  Storage Information
+ Storage Information 
+
+   Container : SAVMS320   SA Sample Aliquots Box 320      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+SA04388886,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04388995,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 1   <view1> 
+
+ ,
+SA04389008,  Storage Information
+ Storage Information 
+
+   Container : SAVMS320   SA Sample Aliquots Box 320      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04389071,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 1   <view1> 
+
+ ,
+SA04389141,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04389255,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 1   <view1> 
+
+ ,
+SA04389259,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04389428,  Storage Information
+ Storage Information 
+
+   Container : SAVMS320   SA Sample Aliquots Box 320      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 8   <view1> 
+
+ ,
+SA04389578,  Storage Information
+ Storage Information 
+
+   Container : SAVMS317   SA Sample Aliquots Box 317      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 5   <view1> 
+
+ ,
+SA04389623,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 1   <view1> 
+
+ ,
+SA04389632,  Storage Information
+ Storage Information 
+
+   Container : SAVMS317   SA Sample Aliquots Box 317      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+SA04390125,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+SA04390145,  Storage Information
+ Storage Information 
+
+   Container : SAVMS204   SA Sample Aliquots Box 204      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 1   <view1> 
+
+ ,
+SA04390503,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04391411,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 1   <view1> 
+
+ ,
+SA04391421,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+SA04391449,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04391458,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 8   <view1> 
+
+ ,
+SA04391493,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+SA04391538,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 8   <view1> 
+
+ ,
+SA04391542,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 8   <view1> 
+
+ ,
+SA04391565,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 7   <view1> 
+
+ ,
+SA04391570,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+SA04391755,  Storage Information
+ Storage Information 
+
+   Container : SAVMS209   SA Sample Aliquots Box 209      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04391767,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04392168,  Storage Information
+ Storage Information 
+
+   Container : SAVMS204   SA Sample Aliquots Box 204      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+SA04392219,  Storage Information
+ Storage Information 
+
+   Container : SAVMS204   SA Sample Aliquots Box 204      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+SA04392222,  Storage Information
+ Storage Information 
+
+   Container : SAVMS204   SA Sample Aliquots Box 204      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view1> 
+
+ ,
+SA04392262,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 5   <view1> 
+
+ ,
+SA04392274,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04392303,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+SA04392305,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04392502,  Storage Information
+ Storage Information 
+
+   Container : SAVMS205   SA Sample Aliquots Box 205      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04392525,  Storage Information
+ Storage Information 
+
+   Container : SAVMS205   SA Sample Aliquots Box 205      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+SA04392537,  Storage Information
+ Storage Information 
+
+   Container : SAVMS205   SA Sample Aliquots Box 205      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 8   <view1> 
+
+ ,
+SA04392916,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view3> 
+
+ ,
+SA04392920,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view3> 
+
+ ,
+SA04392925,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view3> 
+
+ ,
+SA04392939,  Storage Information
+ Storage Information 
+
+   Container : SAVMS210   SA Sample Aliquots Box 210      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 9   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 5   <view3> 
+
+ ,
+SA04392946,  Storage Information
+ Storage Information 
+
+   Container : SAVMS210   SA Sample Aliquots Box 210      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 7   <view3> 
+
+ ,
+SA04392966,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 1   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 7   <view3> 
+
+ ,
+SA04392979,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view3> 
+
+ ,
+SA04392997,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 8   <view3> 
+
+ ,
+SA04393213,  Storage Information
+ Storage Information 
+
+   Container : SAVMS212   SA Sample Aliquots Box 212      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+SA04393219,  Storage Information
+ Storage Information 
+
+   Container : SAVMS212   SA Sample Aliquots Box 212      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view1> 
+
+ ,
+SA04393247,  Storage Information
+ Storage Information 
+
+   Container : SAVMS212   SA Sample Aliquots Box 212      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04393263,  Storage Information
+ Storage Information 
+
+   Container : SAVMS212   SA Sample Aliquots Box 212      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 9   <view1> 
+
+ ,
+SA04393291,  Storage Information
+ Storage Information 
+
+   Container : SAVMS212   SA Sample Aliquots Box 212      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 8   <view1> 
+
+ ,
+SA04394267,  Storage Information
+ Storage Information 
+
+   Container : SAVMS216   SA Sample Aliquots Box 216      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04394268,  Storage Information
+ Storage Information 
+
+   Container : SAVMS214   SA Sample Aliquots Box 214      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 5   <view1> 
+
+ ,
+SA04394276,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04394277,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04394281,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04394285,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04394376,  Storage Information
+ Storage Information 
+
+   Container : SAVMS219   SA Sample Aliquots Box 219      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 7   <view1> 
+
+ ,
+SA04394378,  Storage Information
+ Storage Information 
+
+   Container : SAVMS219   SA Sample Aliquots Box 219      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 8   <view1> 
+
+ ,
+SA04394411,  Storage Information
+ Storage Information 
+
+   Container : SAVMS222   SA Sample Aliquots Box 222      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+
+ ,
+SA04394906,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04396064,  Storage Information
+ Storage Information 
+
+   Container : SAVMS222   SA Sample Aliquots Box 222      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+SA04396632,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 7   <view1> 
+
+ ,
+SA04396640,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04396644,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+
+ ,
+SA04396660,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+SA04396705,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+SA04396713,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+SA04396727,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04396732,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 3   <view1> 
+
+ ,
+SA04396738,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+SA04396745,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 3   <view1> 
+
+ ,
+SA04396750,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+SA04396859,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04396863,  Storage Information
+ Storage Information 
+
+   Container : SAVMS225   SA Sample Aliquots Box 225      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+SA04396867,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04396877,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 1   <view1> 
+
+ ,
+SA04396879,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 5   <view1> 
+
+ ,
+SA04396883,  Storage Information
+ Storage Information 
+
+   Container : SAVMS225   SA Sample Aliquots Box 225      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+SA04396885,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+SA04396903,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+SA04396907,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 7   <view1> 
+
+ ,
+SA04396915,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+SA04396928,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+SA04396930,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+SA04396934,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04396943,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 7   <view1> 
+
+ ,
+SA04397028,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04397122,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 6   <view1> 
+
+ ,
+SA04397132,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04397134,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04397137,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04397141,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 3   <view1> 
+
+ ,
+SA04397145,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04397147,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+SA04397148,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 3   <view1> 
+
+ ,
+SA04397159,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04397181,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+SA04397211,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 2   <view1> 
+
+ ,
+SA04397736,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04397739,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+SA04397754,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 4   <view1> 
+
+ ,
+SA04397812,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+SA04397818,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 3   <view1> 
+
+ ,
+SA04397829,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 8   <view1> 
+
+ ,
+SA04397836,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04397843,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+SA04397848,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04397853,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+SA04397859,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04397861,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04397863,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 6   <view1> 
+
+ ,
+SA04397866,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04397870,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+SA04397873,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+SA04397881,  Storage Information
+ Storage Information 
+
+   Container : SAVMS232   SA Sample Aliquots Box 232      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 5   <view1> 
+
+ ,
+SA04397970,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+SA04397980,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+
+ ,
+SA04397983,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+
+ ,
+SA04398001,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 8   <view1> 
+
+ ,
+SA04398143,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+SA04398144,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 7   <view1> 
+
+ ,
+SA04398147,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 7   <view1> 
+
+ ,
+SA04398156,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04398283,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04398859,  Storage Information
+ Storage Information 
+
+   Container : SAVMS234   SA Sample Aliquots Box 234      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04400111,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 5   <view1> 
+
+ ,
+SA04400438,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04400450,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+
+ ,
+SA04400469,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+SA04400477,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+SA04400496,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04400506,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 1   <view1> 
+
+ ,
+SA04400516,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 1   <view1> 
+
+ ,
+SA04400527,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 2   <view1> 
+
+ ,
+SA04400531,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04400535,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04400545,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 2   <view1> 
+
+ ,
+SA04400562,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+SA04400569,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04400571,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04400576,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 8   <view1> 
+
+ ,
+SA04400588,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+SA04400636,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04400676,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+SA04400680,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04400767,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04400812,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+SA04400826,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 3   <view1> 
+
+ ,
+SA04400876,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+SA04400927,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04400931,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+SA04401137,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 1   <view1> 
+
+ ,
+SA04401194,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+SA04401202,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 1   <view1> 
+
+ ,
+SA04401205,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 1   <view1> 
+
+ ,
+SA04401228,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04401243,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 1   <view1> 
+
+ ,
+SA04401285,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 6   <view1> 
+
+ ,
+SA04401338,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+SA04401344,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 1   <view1> 
+
+ ,
+SA04401354,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04401368,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+SA04401390,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+SA04401428,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04401464,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 1   <view1> 
+
+ ,
+SA04401869,  Storage Information
+ Storage Information 
+
+   Container : SAVMS247   SA Sample Aliquots Box 247      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04401873,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+
+ ,
+SA04401878,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+SA04401882,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04401884,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04402634,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 5   <view1> 
+
+ ,
+SA04402651,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04402888,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04403263,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04403297,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+SA04403310,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04403332,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+SA04403342,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+SA04403386,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 9   <view1> 
+
+ ,
+SA04403395,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04403719,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+SA04403738,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 2   <view1> 
+
+ ,
+SA04403751,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04403760,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+SA04403773,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 4   <view1> 
+
+ ,
+SA04403775,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 2   <view1> 
+
+ ,
+SA04403777,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04403782,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04403833,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 7   <view1> 
+
+ ,
+SA04403844,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04403880,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+SA04403905,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+SA04403977,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+SA04404225,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04388770,  Storage Information
+ Storage Information 
+
+   Container : SAVMS320   SA Sample Aliquots Box 320      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+SA04385220,  Storage Information
+ Storage Information 
+
+   Container : SAVMS201   SA Sample Aliquots Box 201      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+   Container : SAVMS314   SA Sample Aliquots Box 314      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 7   <view3> 
+
+ ,
+SA04385120,  Storage Information
+ Storage Information 
+
+   Container : SAVMS312   SA Sample Aliquots Box 312      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04398106,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+SA04401203,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 4   <view1> 
+
+ ,
+SA04401848,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 4   <view1> 
+
+ ,
+SA04401051,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+SA04389066,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 3   <view1> 
+
+ ,
+SA04389123,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 1   <view1> 
+
+ ,
+SA04401081,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+SA04388822,  Storage Information
+ Storage Information 
+
+   Container : SAVMS320   SA Sample Aliquots Box 320      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+SA04401189,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+SA04390337,  Storage Information
+ Storage Information 
+
+   Container : SAVMS201   SA Sample Aliquots Box 201      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04401235,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 2   <view1> 
+
+ ,
+SA04401126,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+SA04396810,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04397116,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04401210,  Storage Information
+ Storage Information 
+
+   Container : SAVMS245   SA Sample Aliquots Box 245      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04396801,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+SA04396372,  Storage Information
+ Storage Information 
+
+   Container : SAVMS227   SA Sample Aliquots Box 227      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+
+ ,
+SA04383112,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04383077,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04392574,  Storage Information
+ Storage Information 
+
+   Container : SAVMS210   SA Sample Aliquots Box 210      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+SA04391698,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 1   <view1> 
+
+ ,
+SA04399764,  Storage Information
+ Storage Information 
+
+   Container : SAVMS238   SA Sample Aliquots Box 238      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04399197,  Storage Information
+ Storage Information 
+
+   Container : SAVMS241   SA Sample Aliquots Box 241      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04393072,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 5   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 2   <view3> 
+
+ ,
+SA04391151,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 5   <view1> 
+
+ ,
+SA04391074,  Storage Information
+ Storage Information 
+
+   Container : SAVMS204   SA Sample Aliquots Box 204      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04391183,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 5   <view1> 
+
+ ,
+SA04396358,  Storage Information
+ Storage Information 
+
+   Container : SAVMS228   SA Sample Aliquots Box 228      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 1   <view1> 
+
+ ,
+SA04391178,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04391213,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04399715,  Storage Information
+ Storage Information 
+
+   Container : SAVMS238   SA Sample Aliquots Box 238      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+SA04392547,  Storage Information
+ Storage Information 
+
+   Container : SAVMS210   SA Sample Aliquots Box 210      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+SA04383486,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04383393,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04402818,  Storage Information
+ Storage Information 
+
+   Container : SAVMS254   SA Sample Aliquots Box 254      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04391346,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 9   <view1> 
+
+ ,
+SA04395389,  Storage Information
+ Storage Information 
+
+   Container : SAVMS220   SA Sample Aliquots Box 220      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+SA04383181,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04391065,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 5   <view1> 
+
+ ,
+SA04402716,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view1> 
+
+ ,
+SA04391060,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04391963,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04395460,  Storage Information
+ Storage Information 
+
+   Container : SAVMS220   SA Sample Aliquots Box 220      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 4   <view1> 
+
+ ,
+SA04399476,  Storage Information
+ Storage Information 
+
+   Container : SAVMS241   SA Sample Aliquots Box 241      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 8   <view1> 
+
+ ,
+SA04383625,  Storage Information
+ Storage Information 
+
+   Container : SAVMS297   SA Sample Aliquots Box 297      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 8   <view1> 
+
+ ,
+SA04391440,  Storage Information
+ Storage Information 
+
+   Container : SAVMS204   SA Sample Aliquots Box 204      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04392114,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 1   <view1> 
+
+ ,
+SA04383628,  Storage Information
+ Storage Information 
+
+   Container : SAVMS297   SA Sample Aliquots Box 297      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+SA04395514,  Storage Information
+ Storage Information 
+
+   Container : SAVMS220   SA Sample Aliquots Box 220      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 7   <view1> 
+
+ ,
+SA04395411,  Storage Information
+ Storage Information 
+
+   Container : SAVMS221   SA Sample Aliquots Box 221      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+SA04392281,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04396366,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 7   <view1> 
+
+ ,
+SA04392074,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+SA04392221,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 2   <view1> 
+
+ ,
+SA04392356,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 4   <view1> 
+
+ ,
+SA04399249,  Storage Information
+ Storage Information 
+
+   Container : SAVMS240   SA Sample Aliquots Box 240      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04383512,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04395307,  Storage Information
+ Storage Information 
+
+   Container : SAVMS223   SA Sample Aliquots Box 223      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+SA04395443,  Storage Information
+ Storage Information 
+
+   Container : SAVMS219   SA Sample Aliquots Box 219      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+SA04400316,  Storage Information
+ Storage Information 
+
+   Container : SAVMS241   SA Sample Aliquots Box 241      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 7   <view1> 
+
+ ,
+SA04383511,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04391541,  Storage Information
+ Storage Information 
+
+   Container : SAVMS205   SA Sample Aliquots Box 205      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04395561,  Storage Information
+ Storage Information 
+
+   Container : SAVMS221   SA Sample Aliquots Box 221      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 1   <view1> 
+
+ ,
+SA04383592,  Storage Information
+ Storage Information 
+
+   no information recorded
+
+ ,
+SA04395565,  Storage Information
+ Storage Information 
+
+   Container : SAVMS220   SA Sample Aliquots Box 220      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04398244,  Storage Information
+ Storage Information 
+
+   Container : SAVMS233   SA Sample Aliquots Box 233      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+SA04398307,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04401856,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+SA04401825,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+SA04401872,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+SA04401812,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+SA04399241,  Storage Information
+ Storage Information 
+
+   Container : SAVMS238   SA Sample Aliquots Box 238      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04402713,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 4   <view1> 
+
+ ,
+SA04393547,  Storage Information
+ Storage Information 
+
+   Container : SAVMS212   SA Sample Aliquots Box 212      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 6   <view1> 
+
+ ,
+SA04398221,  Storage Information
+ Storage Information 
+
+   Container : SAVMS233   SA Sample Aliquots Box 233      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 1   <view1> 
+
+ ,
+SA04398315,  Storage Information
+ Storage Information 
+
+   Container : SAVMS229   SA Sample Aliquots Box 229      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 5   <view1> 
+
+ ,
+SA04397890,  Storage Information
+ Storage Information 
+
+   Container : SAVMS233   SA Sample Aliquots Box 233      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 4   <view1> 
+
+ ,
+SA04383925,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04388610,  Storage Information
+ Storage Information 
+
+   Container : SAVMS315   SA Sample Aliquots Box 315      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04389518,  Storage Information
+ Storage Information 
+
+   Container : SAVMS318   SA Sample Aliquots Box 318      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 1   <view1> 
+
+ ,
+SA04401836,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 2   <view1> 
+
+ ,
+SA04385014,  Storage Information
+ Storage Information 
+
+   Container : SAVMS310   SA Sample Aliquots Box 310      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04385050,  Storage Information
+ Storage Information 
+
+   Container : SAVMS307   SA Sample Aliquots Box 307      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 2   <view1> 
+
+ ,
+SA04385164,  Storage Information
+ Storage Information 
+
+   Container : SAVMS312   SA Sample Aliquots Box 312      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+SA04384959,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 8   <view1> 
+
+ ,
+SA04385145,  Storage Information
+ Storage Information 
+
+   Container : SAVMS314   SA Sample Aliquots Box 314      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 4   <view1> 
+
+ ,
+SA04384072,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+SA04385057,  Storage Information
+ Storage Information 
+
+   Container : SAVMS310   SA Sample Aliquots Box 310      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04385062,  Storage Information
+ Storage Information 
+
+   Container : SAVMS307   SA Sample Aliquots Box 307      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 1   <view1> 
+
+ ,
+SA04384118,  Storage Information
+ Storage Information 
+
+   Container : SAVMS298   SA Sample Aliquots Box 298      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+XJ00299568,  Storage Information
+ Storage Information 
+
+   Container : SAVMS223   SA Sample Aliquots Box 223      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 3   <view1> 
+
+ ,
+XJ00299617,  Storage Information
+ Storage Information 
+
+   Container : SAVMS218   SA Sample Aliquots Box 218      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+XJ00299879,  Storage Information
+ Storage Information 
+
+   Container : SAVMS234   SA Sample Aliquots Box 234      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+XJ00299207,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+XJ00299215,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+
+ ,
+XJ00299223,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+XJ00299885,  Storage Information
+ Storage Information 
+
+   Container : SAVMS247   SA Sample Aliquots Box 247      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+XJ00299203,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+
+ ,
+XJ00299208,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 8   <view1> 
+
+ ,
+XJ00299212,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+XJ00299206,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 5   <view1> 
+
+ ,
+SA04384244,  Storage Information
+ Storage Information 
+
+   Container : SAVMS308   SA Sample Aliquots Box 308      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 4   <view1> 
+
+ ,
+SA04384333,  Storage Information
+ Storage Information 
+
+   Container : SAVMS310   SA Sample Aliquots Box 310      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04384574,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+SA04385348,  Storage Information
+ Storage Information 
+
+   Container : SAVMS313   SA Sample Aliquots Box 313      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+SA04389884,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04398902,  Storage Information
+ Storage Information 
+
+   Container : SAVMS239   SA Sample Aliquots Box 239      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 3   <view1> 
+
+ ,
+SA04389957,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04391033,  Storage Information
+ Storage Information 
+
+   Container : SAVMS209   SA Sample Aliquots Box 209      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+SA04398886,  Storage Information
+ Storage Information 
+
+   Container : SAVMS239   SA Sample Aliquots Box 239      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 1   <view1> 
+
+ ,
+SA04389885,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+SA04401617,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 7   <view1> 
+
+ ,
+SA04401537,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 5   <view1> 
+
+ ,
+SA04398891,  Storage Information
+ Storage Information 
+
+   Container : SAVMS239   SA Sample Aliquots Box 239      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04401499,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 5   <view1> 
+
+ ,
+SA04394969,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04401546,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+SA04398814,  Storage Information
+ Storage Information 
+
+   Container : SAVMS240   SA Sample Aliquots Box 240      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 6   <view1> 
+
+ ,
+SA04394377,  Storage Information
+ Storage Information 
+
+   Container : SAVMS225   SA Sample Aliquots Box 225      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 9   <view1> 
+
+ ,
+SA04389785,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+SA04394949,  Storage Information
+ Storage Information 
+
+   Container : SAVMS225   SA Sample Aliquots Box 225      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 8   <view1> 
+
+ ,
+SA04401708,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+SA04391047,  Storage Information
+ Storage Information 
+
+   Container : SAVMS209   SA Sample Aliquots Box 209      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+SA04401792,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+
+ ,
+SA04398871,  Storage Information
+ Storage Information 
+
+   Container : SAVMS240   SA Sample Aliquots Box 240      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04389962,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 4   <view1> 
+
+ ,
+SA04401668,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+SA04391089,  Storage Information
+ Storage Information 
+
+   Container : SAVMS209   SA Sample Aliquots Box 209      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 4   <view1> 
+
+ ,
+XJ00300282,  Storage Information
+ Storage Information 
+
+   Container : SAVMS254   SA Sample Aliquots Box 254      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 9   <view1> 
+
+ ,
+XJ00300008,  Storage Information
+ Storage Information 
+
+   Container : SAVMS235   SA Sample Aliquots Box 235      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 2   <view1> 
+
+ ,
+XJ00300314,  Storage Information
+ Storage Information 
+
+   Container : SAVMS254   SA Sample Aliquots Box 254      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+
+ ,
+XJ00299980,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 5   <view1> 
+
+ ,
+XC00452865,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 7   <view1> 
+
+ ,
+XC00453480,  Storage Information
+ Storage Information 
+
+   Container : SAVMS243   SA Sample Aliquots Box 243      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 4   <view1> 
+
+ ,
+XC00453476,  Storage Information
+ Storage Information 
+
+   Container : SAVMS241   SA Sample Aliquots Box 241      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+
+ ,
+SA04394404,  Storage Information
+ Storage Information 
+
+   Container : SAVMS222   SA Sample Aliquots Box 222      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+XC00452957,  Storage Information
+ Storage Information 
+
+   Container : SAVMS314   SA Sample Aliquots Box 314      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+SA04390573,  Storage Information
+ Storage Information 
+
+   Container : SAVMS201   SA Sample Aliquots Box 201      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+XC00453359,  Storage Information
+ Storage Information 
+
+   Container : SAVMS225   SA Sample Aliquots Box 225      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 2   <view1> 
+
+ ,
+XC00453488,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+SA04392005,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 6   <view1> 
+
+ ,
+SA04391845,  Storage Information
+ Storage Information 
+
+   Container : SAVMS208   SA Sample Aliquots Box 208      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+XC00453658,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 8   <view1> 
+
+ ,
+XC00452867,  Storage Information
+ Storage Information 
+
+   Container : SAVMS305   SA Sample Aliquots Box 305      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 6   <view1> 
+
+ ,
+SA04391962,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 3   <view1> 
+
+ ,
+XB01109936,  Storage Information
+ Storage Information 
+
+   Container : SAVMS202   SA Sample Aliquots Box 202      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+SA04392415,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 6   <view1> 
+
+ ,
+SA04396233,  Storage Information
+ Storage Information 
+
+   Container : SAVMS222   SA Sample Aliquots Box 222      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 5   <view1> 
+
+ ,
+SA04396091,  Storage Information
+ Storage Information 
+
+   Container : SAVMS221   SA Sample Aliquots Box 221      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view1> 
+
+ ,
+SA04396158,  Storage Information
+ Storage Information 
+
+   Container : SAVMS221   SA Sample Aliquots Box 221      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
+SA04396070,  Storage Information
+ Storage Information 
+
+   Container : SAVMS220   SA Sample Aliquots Box 220      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+XB01110705,  Storage Information
+ Storage Information 
+
+   Container : SAVMS214   SA Sample Aliquots Box 214      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 9   <view1> 
+
+ ,
+XB01109945,  Storage Information
+ Storage Information 
+
+   Container : SAVMS323   SA Sample Aliquots Box 323      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+SA04392430,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 6   <view1> 
+
+ ,
+XB01111620,  Storage Information
+ Storage Information 
+
+   Container : SAVMS235   SA Sample Aliquots Box 235      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 7   <view1> 
+
+ ,
+XB01110706,  Storage Information
+ Storage Information 
+
+   Container : SAVMS216   SA Sample Aliquots Box 216      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+SA04391917,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+SA04391243,  Storage Information
+ Storage Information 
+
+   Container : SAVMS200   SA Sample Aliquots Box 200      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+SA04391993,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04392446,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 7   <view1> 
+
+ ,
+SA04392425,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 3   <view1> 
+
+ ,
+XB01112353,  Storage Information
+ Storage Information 
+
+   Container : SAVMS254   SA Sample Aliquots Box 254      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+SA04391988,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 2   <view1> 
+
+ ,
+SA04392450,  Storage Information
+ Storage Information 
+
+   Container : SAVMS206   SA Sample Aliquots Box 206      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04392441,  Storage Information
+ Storage Information 
+
+   Container : SAVMS207   SA Sample Aliquots Box 207      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 2   <view1> 
+
+ ,
+XB01109738,  Storage Information
+ Storage Information 
+
+   Container : SAVMS324   SA Sample Aliquots Box 324      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 5   <view1> 
+
+ ,
+XB01110534,  Storage Information
+ Storage Information 
+
+   Container : SAVMS216   SA Sample Aliquots Box 216      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+SA04396293,  Storage Information
+ Storage Information 
+
+   Container : SAVMS222   SA Sample Aliquots Box 222      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 5   <view1> 
+
+ ,
+XB01109834,  Storage Information
+ Storage Information 
+
+   Container : SAVMS202   SA Sample Aliquots Box 202      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+XB01110023,  Storage Information
+ Storage Information 
+
+   Container : SAVMS202   SA Sample Aliquots Box 202      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 9   <view1> 
+
+ ,
+XB01109846,  Storage Information
+ Storage Information 
+
+   Container : SAVMS202   SA Sample Aliquots Box 202      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+XB01112143,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+SA04391525,  Storage Information
+ Storage Information 
+
+   Container : SAVMS205   SA Sample Aliquots Box 205      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 4   <view1> 
+
+ ,
+XB01112326,  Storage Information
+ Storage Information 
+
+   Container : SAVMS252   SA Sample Aliquots Box 252      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+XB01110524,  Storage Information
+ Storage Information 
+
+   Container : SAVMS217   SA Sample Aliquots Box 217      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+XB01110544,  Storage Information
+ Storage Information 
+
+   Container : SAVMS218   SA Sample Aliquots Box 218      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 2   <view1> 
+
+ ,
+XB01110668,  Storage Information
+ Storage Information 
+
+   Container : SAVMS214   SA Sample Aliquots Box 214      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+XB01109843,  Storage Information
+ Storage Information 
+
+   Container : SAVMS202   SA Sample Aliquots Box 202      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 6   <view1> 
+
+ ,
+XB01112171,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 6   <view1> 
+
+ ,
+XB01109742,  Storage Information
+ Storage Information 
+
+   Container : SAVMS202   SA Sample Aliquots Box 202      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 3   <view1> 
+
+ ,
+SA04400147,  Storage Information
+ Storage Information 
+
+   Container : SAVMS241   SA Sample Aliquots Box 241      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+SA04400167,  Storage Information
+ Storage Information 
+
+   Container : SAVMS241   SA Sample Aliquots Box 241      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 5   <view1> 
+
+ ,
+SA04399634,  Storage Information
+ Storage Information 
+
+   Container : SAVMS242   SA Sample Aliquots Box 242      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 6   <view1> 
+
+ ,
+SA04403127,  Storage Information
+ Storage Information 
+
+   Container : SAVMS254   SA Sample Aliquots Box 254      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 5   <view1> 
+
+ ,
+SA04395707,  Storage Information
+ Storage Information 
+
+   Container : SAVMS224   SA Sample Aliquots Box 224      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+SA04400751,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 1   <view1> 
+
+ ,
+SA04393063,  Storage Information
+ Storage Information 
+
+   Container : SAVMS211   SA Sample Aliquots Box 211      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 5   <view1> 
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 1   <view3> 
+
+ ,
+SA04393589,  Storage Information
+ Storage Information 
+
+   Container : SAVMS213   SA Sample Aliquots Box 213      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 1   Row : 1   <view1> 
+
+ ,
+SA04395798,  Storage Information
+ Storage Information 
+
+   Container : SAVMS224   SA Sample Aliquots Box 224      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+SA04395638,  Storage Information
+ Storage Information 
+
+   Container : SAVMS221   SA Sample Aliquots Box 221      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 2   <view1> 
+
+ ,
+SA04396318,  Storage Information
+ Storage Information 
+
+   Container : SAVMS226   SA Sample Aliquots Box 226      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 9   <view1> 
+
+ ,
+SA04398044,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 3   <view1> 
+
+ ,
+SA04398149,  Storage Information
+ Storage Information 
+
+   Container : SAVMS233   SA Sample Aliquots Box 233      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 6   <view1> 
+
+ ,
+SA04402095,  Storage Information
+ Storage Information 
+
+   Container : SAVMS244   SA Sample Aliquots Box 244      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 2   <view1> 
+
+ ,
+SA04398168,  Storage Information
+ Storage Information 
+
+   Container : SAVMS231   SA Sample Aliquots Box 231      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 8   <view1> 
+
+ ,
+SA04399279,  Storage Information
+ Storage Information 
+
+   Container : SAVMS238   SA Sample Aliquots Box 238      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 1   <view1> 
+
+ ,
+SG00481930,  Storage Information
+ Storage Information 
+
+   Container : SAVMS316   SA Sample Aliquots Box 316      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 2   <view1> 
+
+ ,
+SG00482761,  Storage Information
+ Storage Information 
+
+   Container : SAVMS223   SA Sample Aliquots Box 223      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 7   <view1> 
+
+ ,
+SG00482376,  Storage Information
+ Storage Information 
+
+   Container : SAVMS209   SA Sample Aliquots Box 209      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 8   <view1> 
+
+ ,
+SG00483290,  Storage Information
+ Storage Information 
+
+   Container : SAVMS251   SA Sample Aliquots Box 251      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 3   <view1> 
+
+ ,
+XA00172546,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 3   <view1> 
+
+ ,
+XC00453008,  Storage Information
+ Storage Information 
+
+   Container : SAVMS313   SA Sample Aliquots Box 313      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 3   <view1> 
+
+ ,
+XH00164703,  Storage Information
+ Storage Information 
+
+   Container : SAVMS235   SA Sample Aliquots Box 235      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 3   <view1> 
+
+ ,
+XH00164865,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+XH00164719,  Storage Information
+ Storage Information 
+
+   Container : SAVMS235   SA Sample Aliquots Box 235      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 5   <view1> 
+
+ ,
+XH00164498,  Storage Information
+ Storage Information 
+
+   Container : SAVMS217   SA Sample Aliquots Box 217      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 2   <view1> 
+
+ ,
+XH00164508,  Storage Information
+ Storage Information 
+
+   Container : SAVMS218   SA Sample Aliquots Box 218      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+XH00164293,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 9   <view1> 
+
+ ,
+XH00164538,  Storage Information
+ Storage Information 
+
+   Container : SAVMS222   SA Sample Aliquots Box 222      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 9   <view1> 
+
+ ,
+XH00164318,  Storage Information
+ Storage Information 
+
+   Container : SAVMS317   SA Sample Aliquots Box 317      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 7   <view1> 
+
+ ,
+XH00164300,  Storage Information
+ Storage Information 
+
+   Container : SAVMS322   SA Sample Aliquots Box 322      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 1   <view1> 
+
+ ,
+XH00164294,  Storage Information
+ Storage Information 
+
+   Container : SAVMS321   SA Sample Aliquots Box 321      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 8   <view1> 
+
+ ,
+XH00164523,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 7   <view1> 
+
+ ,
+XI00203631,  Storage Information
+ Storage Information 
+
+   Container : SAVMS249   SA Sample Aliquots Box 249      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 4   <view1> 
+
+ ,
+XI00203397,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 4   <view1> 
+
+ ,
+XI00203255,  Storage Information
+ Storage Information 
+
+   Container : SAVMS319   SA Sample Aliquots Box 319      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 9   <view1> 
+
+ ,
+XI00203590,  Storage Information
+ Storage Information 
+
+   Container : SAVMS253   SA Sample Aliquots Box 253      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 8   <view1> 
+
+ ,
+XI00203439,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 6   <view1> 
+
+ ,
+XI00203432,  Storage Information
+ Storage Information 
+
+   Container : SAVMS215   SA Sample Aliquots Box 215      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 9   Row : 2   <view1> 
+
+ ,
+XI00203415,  Storage Information
+ Storage Information 
+
+   Container : SAVMS216   SA Sample Aliquots Box 216      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 4   <view1> 
+
+ ,
+XI00203726,  Storage Information
+ Storage Information 
+
+   Container : SAVMS246   SA Sample Aliquots Box 246      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 7   Row : 7   <view1> 
+
+ ,
+XJ00299486,  Storage Information
+ Storage Information 
+
+   Container : SAVMS320   SA Sample Aliquots Box 320      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 8   Row : 4   <view1> 
+
+ ,
+XJ00299697,  Storage Information
+ Storage Information 
+
+   Container : SAVMS218   SA Sample Aliquots Box 218      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 8   <view1> 
+
+ ,
+XJ00300351,  Storage Information
+ Storage Information 
+
+   Container : SAVMS250   SA Sample Aliquots Box 250      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 4   Row : 7   <view1> 
+
+ ,
+XJ00299667,  Storage Information
+ Storage Information 
+
+   Container : SAVMS218   SA Sample Aliquots Box 218      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 3   Row : 8   <view1> 
+
+ ,
+XJ00299680,  Storage Information
+ Storage Information 
+
+   Container : SAVMS218   SA Sample Aliquots Box 218      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 5   Row : 6   <view1> 
+
+ ,
+XJ00299972,  Storage Information
+ Storage Information 
+
+   Container : SAVMS248   SA Sample Aliquots Box 248      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 4   <view1> 
+
+ ,
+XJ00300236,  Storage Information
+ Storage Information 
+
+   Container : SAVMS255   SA Sample Aliquots Box 255      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 2   Row : 1   <view1> 
+
+ ,
+XJ00299873,  Storage Information
+ Storage Information 
+
+   Container : SAVMS234   SA Sample Aliquots Box 234      Storage Place : SAVF1   SA Virology Storage Fridge Top Shelf      Col : 6   Row : 6   <view1> 
+
+ ,
